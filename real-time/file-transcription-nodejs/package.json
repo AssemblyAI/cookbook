@@ -1,0 +1,16 @@
+{
+  "name": "realtime-example",
+  "version": "1.0.0",
+  "description": "A simple example of how to use the AssemblyAI realtime stream API in node.js",
+  "main": "stream_api.js",
+  "dependencies": {
+    "ws": "^8.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node stream_api.js"
+  },
+  "author": "Garvan Doyle",
+  "license": "ISC"
+}

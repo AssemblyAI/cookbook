@@ -1,0 +1,1 @@
+Repo for hosting code associated with [*Transcribe Audio Files in an S3 Bucket with AssemblyAI*](https://www.assemblyai.com/blog/transcribing-audio-files-in-an-s3-bucket-with-assemblyai/) by [AssemblyAI](https://www.assemblyai.com/)
