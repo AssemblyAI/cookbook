@@ -22,12 +22,17 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Using Real-Time Streaming](real-time/real-time.ipynb)
 
 ## LeMUR 🐾
+[Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)
+[Extract Dialogue Data with LeMUR and JSON](lemur/dialogue-data.ipynb)
+[Automatically Generate Action Items from a Meeting with LeMUR](meeting-action-items.ipynb)
+[Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
 [Extract Citations from a Transcript with OpenAI Embeddings](lemur/transcript-citations.ipynb)
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
 - [Python SDK](https://github.com/AssemblyAI/assemblyai-python-sdk)
+- [Node.js SDK](https://github.com/AssemblyAI/assemblyai-node-sdk)
 - [Command Line Interface (CLI)](https://github.com/AssemblyAI/assemblyai-cli)
 - [Discuss the API in the AssemblyAI Discord](https://www.assemblyai.com/discord)
 - [Check out our YouTube Channel](https://www.youtube.com/c/assemblyai)
