@@ -1,6 +1,3 @@
-[submodule "real-time/real-time-react"]
-	path = real-time/real-time-react
-	url = git@github.com:MAsuamah/real-time-react.git
 [submodule "real-time/realtime-react-example"]
 	path = real-time/realtime-react-example
 	url = git@github.com:AssemblyAI-Examples/realtime-react-example.git
