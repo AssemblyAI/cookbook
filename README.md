@@ -18,9 +18,10 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Summarizing Virtual Meetings](audio-intelligence/summarization.ipynb)
 
 ## Real-time 🕒
-[Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)  
-[Using Real-Time Streaming](real-time/real-time.ipynb)
-[Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)
+[Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)\
+[Using Real-Time Streaming](real-time/real-time.ipynb)\
+[Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example) 
+
 
 ## LeMUR 🐾
 [Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)     
