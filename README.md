@@ -8,6 +8,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 ## Core Transcription 🎙️
 [Transcribing an Audio File](core-transcription/transcribe.ipynb)      
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
+🆕[Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)
 [Generating Subtitles for Videos](core-transcription/subtitles.ipynb)
 
 ## Audio Intelligence 🤖
