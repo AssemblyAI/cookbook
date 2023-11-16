@@ -10,8 +10,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
 🆕[Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)  
 🆕[Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
-[Generating Subtitles for Videos](core-transcription/subtitles.ipynb) 
-🆕[Translating Subtitles](core-transcription/translate_subtitles.ipynb)   
+[Generating Subtitles for Videos](core-transcription/subtitles.ipynb)  
+🆕[Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specifying Language](core-transcription/specify-language.ipynb)  
 [Automatically Detecting Language](core-transcription/automatic-language-detection.ipynb)  
 
