@@ -28,14 +28,14 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Using Real-Time Streaming](real-time/real-time.ipynb)\
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example) 
 
-
 ## LeMUR 🐾
 [Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)     
 [Extract Dialogue Data with LeMUR and JSON](lemur/dialogue-data.ipynb)     
 [Automatically Generate Action Items from a Meeting with LeMUR](lemur/meeting-action-items.ipynb)     
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)     
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
-[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)     
+[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
+🆕[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](lemur/timestamped-transcripts.ipynb)    
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
 🆕[Processing Edited Transcripts with LeMUR's Custom Text Input Parameter](lemur/input-text-edit-transcript.ipynb)  
 🆕[Processing Speaker Labels with LeMUR's Custom Text Input Parameter](lemur/input-text-speaker-labels.ipynb)  
