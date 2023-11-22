@@ -37,8 +37,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
 [Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)     
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
-🆕[Processing Edited Transcripts with LeMUR's Custom Input Text Parameter](lemur/input-text-edit-transcript.ipynb)  
-🆕[Processing Speaker Labels with LeMUR's Custom Input Text Parameter](lemur/input-text-speaker-labels.ipynb)  
+🆕[Processing Edited Transcripts with LeMUR's Custom Text Input Parameter](lemur/input-text-edit-transcript.ipynb)  
+🆕[Processing Speaker Labels with LeMUR's Custom Text Input Parameter](lemur/input-text-speaker-labels.ipynb)  
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
