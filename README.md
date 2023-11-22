@@ -9,7 +9,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribing an Audio File](core-transcription/transcribe.ipynb)      
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
 [Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)  
-🆕[Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
+[Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
 [Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
 [Generating Subtitles for Videos](core-transcription/subtitles.ipynb)  
 [Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
@@ -35,10 +35,10 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Automatically Generate Action Items from a Meeting with LeMUR](lemur/meeting-action-items.ipynb)     
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)     
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
-🆕[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)     
-🆕[Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
-🆕[Processing Edited Transcripts with LeMUR Input Text Parameter](lemur/input-text-edit-transcript.ipynb)  
-🆕[Processing Speaker Labels with LeMUR Input Text Parameter](lemur/input-text-speaker-labels.ipynb)  
+[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)     
+[Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
+🆕[Processing Edited Transcripts with LeMUR's Custom Input Text Parameter](lemur/input-text-edit-transcript.ipynb)  
+🆕[Processing Speaker Labels with LeMUR's Custom Input Text Parameter](lemur/input-text-speaker-labels.ipynb)  
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
