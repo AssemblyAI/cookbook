@@ -9,12 +9,15 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribing an Audio File](core-transcription/transcribe.ipynb)      
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
 [Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)  
+[Transcribing multiple files simultaneously using our SDK](core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb)  
 [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
+🆕[Transcribe Google Drive links](core-transcription/transcribing-google-drive-file.md)  
 [Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
+🆕[Detecting Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
 [Generating Subtitles for Videos](core-transcription/subtitles.ipynb)  
-[Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
+🆕[Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specifying Language](core-transcription/specify-language.ipynb)  
-[Automatically Detecting Language](core-transcription/automatic-language-detection.ipynb)  
+[Using Automatic Language Detection](core-transcription/automatic-language-detection.ipynb)   
 [Detecting Low Confidence Words](core-transcription/detecting-low-confidence-words.md)
 
 ## Audio Intelligence 🤖
@@ -28,7 +31,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)\
 [Using Real-Time Streaming](real-time/real-time.ipynb)\
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)      \
-🆕[Using LeMUR with Real-Time Streaming](real-time/real_time_lemur.ipynb)
+[Using LeMUR with Real-Time Streaming](real-time/real_time_lemur.ipynb)
 
 ## LeMUR 🐾
 [Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)     
@@ -36,7 +39,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Automatically Generate Action Items from a Meeting with LeMUR](lemur/meeting-action-items.ipynb)     
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)     
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
-[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
+🆕[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
 🆕[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](lemur/timestamped-transcripts.ipynb)    
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
 🆕[Processing Edited Transcripts with LeMUR's Custom Text Input Parameter](lemur/input-text-edit-transcript.ipynb)  
