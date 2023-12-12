@@ -15,6 +15,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specifying Language](core-transcription/specify-language.ipynb)  
 [Automatically Detecting Language](core-transcription/automatic-language-detection.ipynb)  
+[Detecting Low Confidence Words](core-transcription/detecting-low-confidence-words.md)
 
 ## Audio Intelligence 🤖
 [Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
