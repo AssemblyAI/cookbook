@@ -42,7 +42,6 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
 🆕[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](lemur/timestamped-transcripts.ipynb)    
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
-🆕[Processing Edited Transcripts with LeMUR's Custom Text Input Parameter](lemur/input-text-edit-transcript.ipynb)  
 🆕[Processing Speaker Labels with LeMUR's Custom Text Input Parameter](lemur/input-text-speaker-labels.ipynb)  
 🆕[Creating Chapter Summaries with LeMUR's Custom Text Input Parameter](lemur/input-text-chapters.ipynb)  
 
