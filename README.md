@@ -15,7 +15,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
 🆕[Detecting Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
 [Generating Subtitles for Videos](core-transcription/subtitles.ipynb)  
-🆕[Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
+[Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specifying Language](core-transcription/specify-language.ipynb)  
 [Using Automatic Language Detection](core-transcription/automatic-language-detection.ipynb)   
 [Detecting Low Confidence Words](core-transcription/detecting-low-confidence-words.md)
@@ -34,15 +34,15 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Using LeMUR with Real-Time Streaming](real-time/real_time_lemur.ipynb)
 
 ## LeMUR 🐾
+[Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
+[Using LeMUR Specialized Endpoints](lemur/specialized-endpoints.ipynb)  
 [Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)     
 [Extract Dialogue Data with LeMUR and JSON](lemur/dialogue-data.ipynb)     
 [Automatically Generate Action Items from a Meeting with LeMUR](lemur/meeting-action-items.ipynb)     
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)     
-[Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
 🆕[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
 🆕[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](lemur/timestamped-transcripts.ipynb)    
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
-🆕[Processing Edited Transcripts with LeMUR's Custom Text Input Parameter](lemur/input-text-edit-transcript.ipynb)  
 🆕[Processing Speaker Labels with LeMUR's Custom Text Input Parameter](lemur/input-text-speaker-labels.ipynb)  
 🆕[Creating Chapter Summaries with LeMUR's Custom Text Input Parameter](lemur/input-text-chapters.ipynb)  
 
