@@ -40,7 +40,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)     
 [Extract Dialogue Data with LeMUR and JSON](lemur/dialogue-data.ipynb)     
 [Automatically Generate Action Items from a Meeting with LeMUR](lemur/meeting-action-items.ipynb)     
-[Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)     
+[Implement a Sales Playbook Using LeMUR](lemur/sales-playbook.ipynb)     
 🆕[Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
 🆕[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](lemur/timestamped-transcripts.ipynb)    
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
