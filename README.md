@@ -20,6 +20,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Using Automatic Language Detection](core-transcription/automatic-language-detection.ipynb)   
 [Detecting Low Confidence Words](core-transcription/detecting-low-confidence-words.md)   
 🆕[Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)   
+🆕[Splitting audio file to shorter files](core-transcription/split_audio_file)   
+
 
 ## Audio Intelligence 🤖
 [Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
