@@ -9,10 +9,10 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribing an Audio File](core-transcription/transcribe.ipynb)      
 [Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
 [Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)  
+[Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
 [Transcribing multiple files simultaneously using our SDK](core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb)  
 [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
 🆕[Transcribe Google Drive links](core-transcription/transcribing-google-drive-file.md)  
-[Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
 🆕[Detecting Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
 [Generating Subtitles for Videos](core-transcription/subtitles.ipynb)  
 [Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
@@ -21,7 +21,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Detecting Low Confidence Words](core-transcription/detecting-low-confidence-words.md)   
 🆕[Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)   
 🆕[Splitting audio file to shorter files](core-transcription/split_audio_file)   
-
+🆕[Deleting a Transcript ](core-transcription/delete_transcript.ipynb)  
 
 ## Audio Intelligence 🤖
 [Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
@@ -53,6 +53,9 @@ Most code examples are written in Python or Javascript, but the concepts contain
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
 - [Python SDK](https://github.com/AssemblyAI/assemblyai-python-sdk)
 - [Node.js SDK](https://github.com/AssemblyAI/assemblyai-node-sdk)
+- [Java SDK](https://github.com/AssemblyAI/assemblyai-java-sdk)
+- [Golang SDK](https://github.com/AssemblyAI/assemblyai-go-sdk)
+- [AssemblyAI API Spec](https://github.com/AssemblyAI/assemblyai-api-spec)
 - [Command Line Interface (CLI)](https://github.com/AssemblyAI/assemblyai-cli)
 - [Discuss the API in the AssemblyAI Discord](https://www.assemblyai.com/discord)
 - [Check out our YouTube Channel](https://www.youtube.com/c/assemblyai)
