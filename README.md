@@ -34,7 +34,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)\
 [Using Real-Time Streaming](real-time/real-time.ipynb)\
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)      \
-[Using LeMUR with Real-Time Streaming](real-time/real_time_lemur.ipynb)
+[Using LeMUR with Real-Time Streaming](real-time/real_time_lemur.ipynb)\
+[Terminate real-time session after a fixed duration of inactivity](real-time/terminate_realtime_programmatically.ipynb)
 
 ## LeMUR 🐾
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
