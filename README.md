@@ -7,7 +7,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 
 ## Core Transcription 🎙️
 [Transcribing an Audio File](core-transcription/transcribe.ipynb)      
-[Transcribe from an AWS S3 Bucket](core-transcription/transcribe-from-s3-bucket)  
+[Transcribe from an AWS S3 Bucket](core-transcription/transcribe_from_s3.ipynb)  
 [Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)  
 [Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
 [Transcribing multiple files simultaneously using our SDK](core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb)  
@@ -35,7 +35,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Using Real-Time Streaming](real-time/real-time.ipynb)\
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)      \
 [Using LeMUR with Real-Time Streaming](real-time/real_time_lemur.ipynb)\
-[Terminate real-time session after a fixed duration of inactivity](real-time/terminate_realtime_programmatically.ipynb)
+[Terminate real-time session after a fixed duration of inactivity](real-time/terminate_realtime_programmatically.ipynb)\
+[Using Partial Transcripts](real-time/partial_transcripts.ipynb)
 
 ## LeMUR 🐾
 [Processing Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
