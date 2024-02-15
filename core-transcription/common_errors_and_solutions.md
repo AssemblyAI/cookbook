@@ -47,7 +47,7 @@ if response.json()['status] == 'error':
 }
 ```
 
-- **Solution**: Before you start, make sure to check our Supported Languages page. This page provides detailed information on what features are available for each language, helping you to choose the right options for your transcription or analysis needs.
+- **Solution**: Before you start, make sure to check our [Supported Languages page](https://www.assemblyai.com/docs/concepts/supported-languages). This page provides detailed information on what features are available for each language, helping you to choose the right options for your transcription or analysis needs.
 #### 2. Insufficient Funds
 ```
 # Status code: 400
