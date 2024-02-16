@@ -23,12 +23,13 @@ if transcript.status == aai.TranscriptStatus.error:
 ```
 
 ### Error handling with HTTPS requests
-For errors when making a request for a transcription, you will have to check the status code that we respond with. For example:
+For errors when making a request for a transcription, you will have to check the status code that we respond with. For errors that occur during the transcription process, you will need to access the "error" key in the JSON response. For other HTTP errors you can print the information from the response object. Here is an example you can use:
 ```
-try:
-    return response.json()["error"]
-except Exception:
-    return f"\nReason: {response.text}\nRequest: {response.request}"
+if response.status_code != 200:
+    try:
+        print(esponse.json()['error'])
+    except Exception:
+        print(response.status_code, response.text, response.url)
 ```
 
 For errors that occur during the transcription process, you will need to access the `"error"` key in the JSON response that our API returns to you.
