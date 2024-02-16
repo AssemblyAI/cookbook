@@ -19,21 +19,23 @@ When using any of our SDKs, both types of errors are surfaced via the error key 
 
 ```
 if transcript.status == aai.TranscriptStatus.error:
-	print(transcript.error)
+    print(transcript.error)
 ```
 
 ### Error handling with HTTPS requests
 For errors when making a request for a transcription, you will have to check the status code that we respond with. For example:
 ```
-if response.status_code != 200:
-	print(response.json()['error])
+try:
+    return response.json()["error"]
+except Exception:
+    return f"\nReason: {response.text}\nRequest: {response.request}"
 ```
 
 For errors that occur during the transcription process, you will need to access the `"error"` key in the JSON response that our API returns to you.
 
 ```
-if response.json()['status] == 'error':
-	print(response.json()['error])
+if response.json()['status'] == 'error':
+    print(response.json()['error'])
 ```
 
 ## Common errors when making a request for a transcription
