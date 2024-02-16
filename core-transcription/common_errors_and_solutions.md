@@ -32,13 +32,6 @@ if response.status_code != 200:
         print(response.status_code, response.text, response.url)
 ```
 
-For errors that occur during the transcription process, you will need to access the `"error"` key in the JSON response that our API returns to you.
-
-```
-if response.json()['status'] == 'error':
-    print(response.json()['error'])
-```
-
 ## Common errors when making a request for a transcription
 
 #### 1. Models are not Supported for a Particular Language
