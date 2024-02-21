@@ -6,22 +6,25 @@ You will need an AssemblyAI account and API key to use these code examples. [Cli
 Most code examples are written in Python or Javascript, but the concepts contained in these examples can be applied to any language. You can learn more about our various models in features in our [official documentation](https://www.assemblyai.com/docs/).
 
 ## Core Transcription 🎙️
-[Transcribing an Audio File](core-transcription/transcribe.ipynb)      
-[Transcribe from an AWS S3 Bucket](core-transcription/transcribe_from_s3.ipynb)  
-[Transcribe a batch of files using AssemblyAI](core-transcription/transcribe_batch_of_files)  
-[Using SDK transcribe a batch of files](core-transcription/SDK_transcribe_batch_of_files)  
-[Transcribing multiple files simultaneously using our SDK](core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb)  
-[Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
-🆕[Transcribe Google Drive links](core-transcription/transcribing-google-drive-file.md)  
-🆕[Detecting Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
-[Generating Subtitles for Videos](core-transcription/subtitles.ipynb)  
-[Translating Subtitles](core-transcription/translate_subtitles.ipynb)     
-[Specifying Language](core-transcription/specify-language.ipynb)  
-[Using Automatic Language Detection](core-transcription/automatic-language-detection.ipynb)   
-[Detecting Low Confidence Words](core-transcription/detecting-low-confidence-words.md)   
-🆕[Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)   
-🆕[Splitting audio file to shorter files](core-transcription/split_audio_file)   
-🆕[Deleting a Transcript ](core-transcription/delete_transcript.ipynb)  
+
+Tutorial | Description |
+:- | :-
+[transcribe.ipynb](core-transcription/transcribe.ipynb)|Transcribe an Audio File
+[transcribe_from_s3.ipynb](transcribe_from_s3.ipynb)|Transcribe from an AWS S3 Bucket
+[transcribe_batch_of_files](core-transcription/transcribe_batch_of_files)|Transcribe a batch of files
+[SDK_transcribe_batch_of_files](core-transcription/SDK_transcribe_batch_of_files)|Use the SDK to transcribe a batch of files
+[batch_transcription.ipynb](core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb)|Transcribe multiple files simultaneously using our SDK
+[transcribe_youtube_videos.ipynb](core-transcription/transcribe_youtube_videos.ipynb)|Transcribe YouTube videos
+🆕[transcribing-google-drive-file.md](core-transcription/transcribing-google-drive-file.md)|Transcribe Google Drive links
+🆕[detecting-low-confidence-words.md](core-transcription/detecting-low-confidence-words.md)|Detect Low Confidence Words in a Transcript
+[subtitles.ipynb](core-transcription/subtitles.ipynb)|Generate Subtitles for Videos
+[translate_subtitles.ipynb](core-transcription/translate_subtitles.ipynb)|Translate Subtitles
+[specify-language.ipynb](core-transcription/specify-language.ipynb)|Specify Language
+[automatic-language-detection.ipynb](core-transcription/automatic-language-detection.ipynb)|Use Automatic Language Detection
+[detecting-low-confidence-words.md](core-transcription/detecting-low-confidence-words.md)|Detect Low Confidence Words
+🆕[speaker_labelled_subtitles.ipynb](core-transcription/speaker_labelled_subtitles.ipynb)|Create Subtitles with Speaker Labels
+🆕[split_audio_file](core-transcription/split_audio_file)|Split audio file to shorter files
+🆕[delete_transcript.ipynb](core-transcription/delete_transcript.ipynb)|Delete a Transcript 
 
 ## Audio Intelligence 🤖
 [Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
