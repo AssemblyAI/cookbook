@@ -100,6 +100,7 @@ def filter_unsupported_characters(phrase):
 **Solution**:
 - **Verify the endpoint and method that you are using**: Check that you are making a `POST` request to `http://api.assemblyai.com/v2/transcript`or a `GET` request to `http://api.assemblyai.com/v2/transcript/{transcript_id}` and not `http://api.assemblyai.com/v2/transcript/`
 - **Token Verification**: Double-check that the API token you're using matches exactly with the token used to make the original request.
+- If you're using Postman, ensure that `Encode URL automatically` under Settings is **disabled**.
 #### 7. Server Errors
 ```
 # Status code: 500
