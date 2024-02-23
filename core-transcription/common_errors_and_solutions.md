@@ -27,7 +27,7 @@ For errors when making a request for a transcription, you will have to check the
 ```
 if response.status_code != 200:
     try:
-        print(esponse.json()['error'])
+        print(response.json()['error'])
     except Exception:
         print(response.status_code, response.text, response.url)
 ```
