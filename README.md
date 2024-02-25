@@ -26,11 +26,11 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
 
 ## Audio Intelligence 🤖
-[Creating Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
-[Identifying Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)     
-[Identifying Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)      
-[Identifying Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)      
-[Summarizing Virtual Meetings](audio-intelligence/summarization.ipynb)
+[Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
+[Identify Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)     
+[Identify Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)      
+[Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)      
+[Summarize Virtual Meetings](audio-intelligence/summarization.ipynb)
 
 ## Real-time 🕒
 [Transcribe files in real-time with Node.js](real-time/file-transcription-nodejs)\
