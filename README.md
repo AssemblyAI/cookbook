@@ -13,7 +13,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribe multiple files simultaneously using our SDK](core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb)  
 [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
 [Transcribe Google Drive links](core-transcription/transcribing-google-drive-file.md)  
-[Detect Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
+[Detect Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md) 
+🆕[Translate Transcripts](core-transcription/translate_transcripts.ipynb)     
 [Generate Subtitles for Videos](core-transcription/subtitles.ipynb)  
 [Translate Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specify a Language](core-transcription/specify-language.ipynb)  
@@ -23,7 +24,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
 🆕[Build a UI for Transcription with Gradio](core-transcription/gradio-frontend.ipynb)  
 🆕[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
-🆕[Translate Transcripts](core-transcription/translate_transcripts.ipynb)     
+🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)
 
 ## Audio Intelligence 🤖
 [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
