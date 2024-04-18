@@ -57,7 +57,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
 - [Python SDK](https://github.com/AssemblyAI/assemblyai-python-sdk)
-- [Node.js SDK](https://github.com/AssemblyAI/assemblyai-node-sdk)
+- [JavaScript SDK](https://github.com/AssemblyAI/assemblyai-node-sdk)
 - [Java SDK](https://github.com/AssemblyAI/assemblyai-java-sdk)
 - [Golang SDK](https://github.com/AssemblyAI/assemblyai-go-sdk)
 - [AssemblyAI API Spec](https://github.com/AssemblyAI/assemblyai-api-spec)
