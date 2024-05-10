@@ -20,6 +20,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Translate Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specify a Language](core-transcription/specify-language.ipynb)  
 [Use Automatic Language Detection](core-transcription/automatic-language-detection.ipynb)    
+[Automatic Language Detection as separate step from Transcription](core-transcription/automatic-language-detection-separate.ipynb)    
 [Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)   
 [Split audio file to shorter files](core-transcription/split_audio_file)   
 [Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
