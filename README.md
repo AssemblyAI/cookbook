@@ -33,7 +33,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Identify Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)     
 [Identify Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)      
 [Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)      
-[Summarize Virtual Meetings](audio-intelligence/summarization.ipynb)
+[Summarize Virtual Meetings](audio-intelligence/summarization.ipynb)      
+[Create a redacted transcript with Entity Detection](audio-intelligence/entity_redaction.ipynb)      
 
 ## Streaming STT 🕒
 [Transcribe files in real-time with Node.js](streaming-stt/file-transcription-nodejs)\
