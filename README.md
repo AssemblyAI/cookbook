@@ -59,7 +59,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Creating Chapter Summaries with LeMUR's Custom Text Input Parameter](lemur/input-text-chapters.ipynb)  
 🆕[How to Pass Context from Previous LeMUR Requests](lemur/past-response-prompts.ipynb)  
 [Use LeMUR for Speaker Identification](lemur/speaker-identification.ipynb)  
-🆕[Prompt Structured Q&A using LeMUR's Task Endpoint](lemur/task-endpoint-strucutred-QA.ipynb)  
+🆕[Ask questions about a transcript using LeMUR's Task Endpoint](lemur/task-endpoint-structured-QA.ipynb)  
+🆕[Create Custom Summaries using LeMUR's Task Endpoint](lemur/task-endpoint-custom-summary.ipynb)  
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
