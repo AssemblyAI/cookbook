@@ -27,7 +27,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
 🆕[Build a UI for Transcription with Gradio](core-transcription/gradio-frontend.ipynb)  
 🆕[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
-🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)
+🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
+🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)  
 
 ## Audio Intelligence 🤖
 [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
