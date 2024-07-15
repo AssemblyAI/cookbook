@@ -61,7 +61,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Use LeMUR for Speaker Identification](lemur/speaker-identification.ipynb)  
 🆕[Ask questions about a transcript using LeMUR's Task Endpoint](lemur/task-endpoint-structured-QA.ipynb)  
 🆕[Create Custom Summaries using LeMUR's Task Endpoint](lemur/task-endpoint-custom-summary.ipynb)
-🆕[Receive AI coaching from LeMUR's Task Endpoint][lemur/task-endpoint-ai-coach.ipynb)
+🆕[Receive AI coaching from LeMUR's Task Endpoint](lemur/task-endpoint-ai-coach.ipynb)    
 🆕[Generate Action Items using LeMUR's Task Endpoint](lemur/task-endpoint-action-items.ipynb)
 
 ## SDKs and Other Resources 📚
