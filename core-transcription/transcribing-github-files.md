@@ -7,7 +7,7 @@
 ### Step 2: Obtain the Raw Audio URL from GitHub
 
 1. Navigate to the repository that houses the audio file. 
-2. Click on the audio file. On the next page, right-click the "View Raw" link and select "copy the link address" from the context menu.
+2. Click on the audio file. On the next page, right-click the "View raw" link and select "copy the link address" from the context menu.
 
 <img width="649" alt="An image of an audio file in a GitHub repository" src="../guide-images/view-raw.png">
 
