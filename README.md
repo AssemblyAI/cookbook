@@ -14,6 +14,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribe multiple files simultaneously using our Node.js SDK](core-transcription/SDK-Node-batch.md)   
 [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)  
 [Transcribe Google Drive links](core-transcription/transcribing-google-drive-file.md)  
+🆕[Transcribe GitHub Files](core-transcription/transcribing-github-files.md)  
 [Detect Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
 🆕[Translate Transcripts](core-transcription/translate_transcripts.ipynb)  
 [Generate Subtitles for Videos](core-transcription/subtitles.ipynb)\
@@ -29,7 +30,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
 🆕[Automatically Retry Server Errors](core-transcription/retry-server-error.ipynb)  
 🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
-🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)  
+🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)
 
 ## Audio Intelligence 🤖
 [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
