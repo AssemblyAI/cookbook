@@ -46,7 +46,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)      \
 [Use LeMUR with Streaming STT](streaming-stt/real_time_lemur.ipynb)\
 [Terminate Streaming STT session after a fixed duration of inactivity](streaming-stt/terminate_realtime_programmatically.ipynb)\
-[Use Partial Transcripts](streaming-stt/partial_transcripts.ipynb)
+[Use Partial Transcripts](streaming-stt/partial_transcripts.ipynb)\
+🆕[Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)
 
 ## LeMUR 🐾
 [Process Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
