@@ -73,6 +73,7 @@ Beyond the code examples here, you can learn about the AssemblyAI API from the f
 - [JavaScript SDK](https://github.com/AssemblyAI/assemblyai-node-sdk)
 - [Java SDK](https://github.com/AssemblyAI/assemblyai-java-sdk)
 - [Golang SDK](https://github.com/AssemblyAI/assemblyai-go-sdk)
+- [Ruby SDK](https://github.com/AssemblyAI/assemblyai-ruby-sdk)
 - [AssemblyAI API Spec](https://github.com/AssemblyAI/assemblyai-api-spec)
 - [Command Line Interface (CLI)](https://github.com/AssemblyAI/assemblyai-cli)
 - [Discuss the API in the AssemblyAI Discord](https://www.assemblyai.com/discord)
