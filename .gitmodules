@@ -1,3 +1,6 @@
 [submodule "real-time/realtime-react-example"]
 	path = real-time/realtime-react-example
 	url = git@github.com:AssemblyAI-Examples/realtime-react-example.git
+[submodule "streaming-stt/twilio-realtime-tutorial"]
+	path = streaming-stt/twilio-realtime-tutorial
+	url = https://github.com/AssemblyAI/twilio-realtime-tutorial
