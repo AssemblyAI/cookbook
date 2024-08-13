@@ -16,18 +16,18 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Transcribe Google Drive links](core-transcription/transcribing-google-drive-file.md)  
 🆕[Transcribe GitHub Files](core-transcription/transcribing-github-files.md)  
 [Detect Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
-🆕[Translate Transcripts](core-transcription/translate_transcripts.ipynb)  
+[Translate Transcripts](core-transcription/translate_transcripts.ipynb)  
 [Generate Subtitles for Videos](core-transcription/subtitles.ipynb)\
 🆕[Generate Speaker Labels with Make.com](core-transcription/make.com-speaker-labels.md)\
 [Translate Subtitles](core-transcription/translate_subtitles.ipynb)     
 [Specify a Language](core-transcription/specify-language.ipynb)  
 [Use Automatic Language Detection](core-transcription/automatic-language-detection.ipynb)    
-[Automatic Language Detection as separate step from Transcription](core-transcription/automatic-language-detection-separate.ipynb)    
+🆕[Automatic Language Detection as separate step from Transcription](core-transcription/automatic-language-detection-separate.ipynb)    
 [Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)   
-[Split audio file to shorter files](core-transcription/split_audio_file)   
+🆕[Split audio file to shorter files](core-transcription/split_audio_file)   
 [Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
 [Build a UI for Transcription with Gradio](core-transcription/gradio-frontend.ipynb)  
-🆕[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
+[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
 🆕[Automatically Retry Server Errors](core-transcription/retry-server-error.ipynb)  
 🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
 🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)
@@ -38,7 +38,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Identify Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)      
 [Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)      
 [Summarize Virtual Meetings](audio-intelligence/summarization.ipynb)      
-[Create a redacted transcript with Entity Detection](audio-intelligence/entity_redaction.ipynb)      
+🆕[Create a redacted transcript with Entity Detection](audio-intelligence/entity_redaction.ipynb)      
 
 ## Streaming STT 🕒
 [Transcribe files in real-time with Node.js](streaming-stt/file-transcription-nodejs)\
@@ -55,7 +55,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Leverage LeMUR for Customer Call Sentiment Analysis](lemur/call-sentiment-analysis.ipynb)     
 [Extract Dialogue Data with LeMUR and JSON](lemur/dialogue-data.ipynb)         
 [Implement a Sales Playbook Using LeMUR](lemur/sales-playbook.ipynb)   
-[Boost Transcription Accuracy with LeMUR](lemur/custom-vocab-lemur.ipynb)  
+🆕[Boost Transcription Accuracy with LeMUR](lemur/custom-vocab-lemur.ipynb)  
 [Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
 [Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](lemur/timestamped-transcripts.ipynb)    
 [Calculating LeMUR Costs by Counting Input Tokens](lemur/counting-tokens.ipynb)  
