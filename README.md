@@ -30,7 +30,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
 🆕[Automatically Retry Server Errors](core-transcription/retry-server-error.ipynb)  
 🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
-🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)
+🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)\
+🆕[Route to Default Language if Language Detection Confidence is Low](core-transcription/automatic-language-detection-route-default-language.ipynb)
 
 ## Audio Intelligence 🤖
 [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
