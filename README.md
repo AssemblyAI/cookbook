@@ -31,7 +31,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Automatically Retry Server Errors](core-transcription/retry-server-error.ipynb)  
 🆕[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
 🆕[Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)\
-🆕[Route to Default Language if Language Detection Confidence is Low](core-transcription/automatic-language-detection-route-default-language.ipynb)
+🆕[Route to Default Language if Language Detection Confidence is Low - Python](core-transcription/automatic-language-detection-route-default-language-python.ipynb)\
+🆕[Route to Default Language if Language Detection Confidence is Low - JS](core-transcription/automatic-language-detection-route-default-language-js.md)
 
 ## Audio Intelligence 🤖
 [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
