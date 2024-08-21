@@ -6,7 +6,7 @@ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABkMAAAEZCAYAAAAkHVIVAAAACXBIW
 
 # Automatic Language Detection: Route to Default Language if Language Confidence is Low
 
-This guide will show you how to use AssemblyAI's API to resubmit a request using a default language if the Automatic Language Detection's `language_confidence` is below a certain threshold. The following code uses the JavaScript SDK. Prefer Python? [Here is the same code using the Python SDK](core-transcription/automatic-language-detection-route-default-language-python.ipynb)!
+This guide will show you how to use AssemblyAI's API to resubmit a request using a default language if the Automatic Language Detection's `language_confidence` is below a certain threshold. The following code uses the JavaScript SDK. Prefer Python? [Here is the same code using the Python SDK](automatic-language-detection-route-default-language-python.ipynb)!
 
 ## Get Started
 
