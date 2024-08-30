@@ -4,7 +4,7 @@ import assemblyai as aai
 
 token = "YOUR-ngrok-TOKEN"
 
-listener = ngrok.connect(8000, token=token)
+listener = ngrok.connect(8000, authtoken_from_env=True)
 public_url = listener.url()
 print("Public url: ", public_url)
 
