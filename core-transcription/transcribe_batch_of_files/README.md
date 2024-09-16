@@ -14,7 +14,7 @@ In this app, we submit a folder of files from the user's computer and then submi
 3.  Add your audio files to be transcribed the `audio` directory
 4.  Run  `pip install -r requirements.txt`  to ensure all dependencies are installed.
 5.  Add your AssemblyAI key to line 5 of  `receiver.py` and line 12 of `submitter.py`.
-6.  Add your ngrok token to line line 5 of `submitter.py`
+6.  Export your authtoken from the ngrok dashboard as `NGROK_AUTHTOKEN` in your terminal using `export NGROK_AUTHTOKEN=YOUR_NGROK_TOKEN_HERE`
 7.  Start the server with the command  `uvicorn receiver:app`  (will run on port 8000).
 8.  Open a second terminal in the main directory of the project and start the submitter script with  `python submitter.py` 
 9. Do not close or exit `submitter.py` until all of your transcripts are complete, as it keeps the public URL created by ngrok for your server alive.
