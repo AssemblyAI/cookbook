@@ -1,0 +1,274 @@
+# yaml-language-server: $schema=./.github/registry_schema.json
+
+# This file is used to generate our docs cookbook page. It specifies which paths
+# each guide is under, and indicates metadata such as tags and a title for each.
+
+- title: Creating summarized chapters from podcasts
+  path: audio-intelligence/auto_chapters.ipynb
+  tags:
+    - audio-intelligence
+
+- title: Identifying hate speech in audio or video files
+  path: audio-intelligence/content_moderation.ipynb
+  tags:
+    - audio-intelligence
+
+- title: PII redaction using entity detection
+  path: audio-intelligence/entity_redaction.ipynb
+  tags:
+    - audio-intelligence
+
+- title: Identifying highlights in audio and video files
+  path: audio-intelligence/key_phrases.ipynb
+  tags:
+    - audio-intelligence
+
+- title: Identifying speakers in audio recordings
+  path: audio-intelligence/speaker_labels.ipynb
+  tags:
+    - speech-to-text
+
+- title: Summarizing virtual meetings
+  path: audio-intelligence/summarization.ipynb
+  tags:
+    - audio-intelligence
+
+- title: Transcribing multiple files simultaneously
+  path: core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb
+  tags:
+    - speech-to-text
+
+- title: Splitting audio files into shorter files
+  path: core-transcription/split_audio_file
+  tags:
+    - speech-to-text
+
+- title: Route to a default language if ALD confidence is low
+  path: core-transcription/automatic-language-detection-route-default-language-python.ipynb
+  tags:
+    - speech-to-text
+
+- title: Guide to Common Errors for New AssemblyAI Users
+  path: core-transcription/common_errors_and_solutions.md
+  tags:
+    - speech-to-text
+
+- title: Deleting an AssemblyAI transcript
+  path: core-transcription/delete_transcript.ipynb
+  tags:
+    - speech-to-text
+
+- title: Detecting low confidence words in a transcript
+  path: core-transcription/detecting-low-confidence-words.md
+  tags:
+    - speech-to-text
+
+- title: Do more with the JavaScript SDK
+  path: core-transcription/do-more-with-sdk-js.md
+  tags:
+    - speech-to-text
+
+- title: Build a UI for transcription with Gradio and Python
+  path: core-transcription/gradio-frontend.ipynb
+  tags:
+    - speech-to-text
+
+- title: Iterate over Speaker Labels with Make.com
+  path: core-transcription/make.com-speaker-labels.md
+  tags:
+    - speech-to-text
+
+- title: How to implement retry server error logic
+  path: core-transcription/retry-server-error.ipynb
+  tags:
+    - speech-to-text
+
+- title: How to implement retry upload error logic
+  path: core-transcription/retry-upload-error.ipynb
+  tags:
+    - speech-to-text
+
+- title: Schedule a DELETE request with AssemblyAI and EasyCron
+  path: core-transcription/schedule_delete.ipynb
+  tags:
+    - speech-to-text
+
+- title: Creating subtitles with speaker labels
+  path: core-transcription/speaker_labelled_subtitles.ipynb
+  tags:
+    - speech-to-text
+
+- title: Create a speaker timeline
+  path: core-transcription/speaker_timeline.ipynb
+  tags:
+    - speech-to-text
+
+- title: Specifying a language
+  path: core-transcription/specify-language.ipynb
+  tags:
+    - speech-to-text
+
+- title: Create custom length subtitles with AssemblyAI
+  path: core-transcription/subtitle_creation_by_word_count.ipynb
+  tags:
+    - speech-to-text
+
+- title: Generating subtitles for videos
+  path: core-transcription/subtitles.ipynb
+  tags:
+    - speech-to-text
+
+- title: Speaker identification across files w/ AssemblyAI, Pinecone, and Nvidia's TitaNet model
+  path: core-transcription/titanet-speaker-identification.ipynb
+  tags:
+    - speech-to-text
+
+- title: Transcribing an audio file
+  path: core-transcription/transcribe.ipynb
+  tags:
+    - speech-to-text
+
+- title: Transcribing from an S3 bucket
+  path: core-transcription/transcribe_from_s3.ipynb
+  tags:
+    - speech-to-text
+
+- title: How to get YouTube video transcripts with yt-dlp
+  path: core-transcription/transcribe_youtube_videos.ipynb
+  tags:
+    - speech-to-text
+
+- title: Transcribing files hosted on GitHub with AssemblyAI
+  path: core-transcription/transcribing-github-files.md
+  tags:
+    - speech-to-text
+
+- title: Guide to using Google Drive links with AssemblyAI
+  path: core-transcription/transcribing-google-drive-file.md
+  tags:
+    - speech-to-text
+
+- title: Translating an AssemblyAI subtitle transcript
+  path: core-transcription/translate_subtitles.ipynb
+  tags:
+    - speech-to-text
+
+- title: Translating an AssemblyAI transcript
+  path: core-transcription/translate_transcripts.ipynb
+  tags:
+    - speech-to-text
+
+- title: Leverage LeMUR for customer call sentiment analysis
+  path: lemur/call-sentiment-analysis.ipynb
+  tags:
+    - lemur
+
+- title: Estimating input token costs with LeMUR
+  path: lemur/counting-tokens.ipynb
+  tags:
+    - lemur
+
+- title: Boosting transcription accuracy with LeMUR (LeMUR custom vocab)
+  path: lemur/custom-vocab-lemur.ipynb
+  tags:
+    - lemur
+
+- title: Extract dialogue data with LeMUR and JSON
+  path: lemur/dialogue-data.ipynb
+  tags:
+    - lemur
+
+- title: Creating chapter summaries with LeMUR's custom text input parameter
+  path: lemur/input-text-chapters.ipynb
+  tags:
+    - lemur
+
+- title: Processing speaker labels with LeMUR's custom text input parameter
+  path: lemur/input-text-speaker-labels.ipynb
+  tags:
+    - lemur
+
+- title: Automatically generate action items from a meeting with LeMUR
+  path: lemur/meeting-action-items.ipynb
+  tags:
+    - lemur
+
+- title: How to pass context from previous LeMUR requests
+  path: lemur/past-response-prompts.ipynb
+  tags:
+    - lemur
+
+- title: Implement a sales playbook using LeMUR
+  path: lemur/sales-playbook.ipynb
+  tags:
+    - lemur
+
+- title: Identify speakers by name with LeMUR
+  path: lemur/speaker-identification.ipynb
+  tags:
+    - lemur
+
+- title: How to use LeMUR's specialized endpoints
+  path: lemur/specialized-endpoints.ipynb
+  tags:
+    - lemur
+
+- title: Identify action items using LeMUR's Task endpoint
+  path: lemur/task-endpoint-action-items.ipynb
+  tags:
+    - lemur
+
+- title: Receive AI coaching feedback with LeMUR's Task endpoint
+  path: lemur/task-endpoint-ai-coach.ipynb
+  tags:
+    - lemur
+
+- title: Summarize transcripts with LeMUR's Task endpoint
+  path: lemur/task-endpoint-custom-summary.ipynb
+  tags:
+    - lemur
+
+- title: Perform structured Q&A with LeMUR's Task endpoint
+  path: lemur/task-endpoint-structured-QA.ipynb
+  tags:
+    - lemur
+
+- title: Extracting transcript quotes with LeMUR's custom text input parameter
+  path: lemur/timestamped-transcripts.ipynb
+  tags:
+    - lemur
+
+- title: Extracting quotes with timestamps using LeMUR + semantic search
+  path: lemur/transcript-citations.ipynb
+  tags:
+    - lemur
+
+- title: Processing audio files with LLMs using LeMUR
+  path: lemur/using-lemur.ipynb
+  tags:
+    - lemur
+
+- title: Transcribe a local file in real-time in Node.js
+  path: streaming-stt/file-transcription-nodejs
+  tags:
+    - streaming-speech-to-text
+
+- title: Capturing complete sentences as partial transcripts with AssemblyAI
+  path: streaming-stt/partial_transcripts.ipynb
+  tags:
+    - streaming-speech-to-text
+
+- title: Using Streaming speech-to-text
+  path: streaming-stt/real-time.ipynb
+  tags:
+    - streaming-speech-to-text
+
+- title: Using LeMUR with Streaming speech-to-text
+  path: streaming-stt/real_time_lemur.ipynb
+  tags:
+    - streaming-speech-to-text
+
+- title: Terminate Streaming session after inactivity
+  path: streaming-stt/terminate_realtime_programmatically.ipynb
+  tags:
+    - streaming-speech-to-text
