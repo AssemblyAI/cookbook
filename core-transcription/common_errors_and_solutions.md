@@ -117,7 +117,7 @@ Server errors rarely happen but can occasionally occur on our side.
 - **Check our Status page** to verify that we are not currently undergoing an incident
 - **Reach out to Support**: Remember to provide the transcript ID, audio file used, and parameters used in your request or the full JSON response in your message. You can also email support@assemblyai.com for help!
 
-## Common errors when making a request for a transcription
+## Common transcription processing errors
 #### 1. Audio File URL Errors
 
 ##### Attempting to transcribe webpages
@@ -146,3 +146,20 @@ Our API requires a publicly accessible URL that points to an audio file to retri
 - **Google Drive URLs**: For audio stored on Google Drive, consult our [Google Drive Transcription Cookbook](https://github.com/AssemblyAI/cookbook/blob/master/core-transcription/transcribing-google-drive-file.md) to correctly format your URLs for access.
 - **Direct Upload**: Utilize the [AssemblyAI Upload endpoint](https://www.assemblyai.com/docs/api-reference/upload) to upload files directly from your device, eliminating the need for a public URL.
 - **AWS S3 Pre-signed URLs**: [This Cookbook](https://github.com/AssemblyAI/cookbook/blob/master/core-transcription/transcribe_from_s3.ipynb) shows you how to use pre-signed URLs for AWS S3 storage to provide secure, temporary access for transcription without making your files public.
+
+#### 2. Audio File Errors
+
+##### Attempting to transcribe audio files that are too short
+```
+{
+  "status": "error",
+  "audio_url": "https://foo.bar",
+  "error": "Audio duration is too short.",
+}
+```
+
+The minimum audio duration for a file submitted to our API is 160ms.
+
+**Solution**:
+- **Add error handling for this error message**: When this error occurs, handle it safely by checking the error string and returning the error.
+- **Add pre-submit checks for the duration of the audio file**: Prior to submitting a file for transcription, check the duration using a tool like soxi (part of the SoX package): `soxi -D audio.mp3`
