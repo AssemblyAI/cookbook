@@ -40,7 +40,7 @@ Underneath the line of code where the transcript is created, `const transcript =
   }
 ```
 
-### How to Log the Transcript JSON and Save it in a Text File
+### How to Log the Transcript JSON and Save it in a File
 
 In order to write data to a file, first import the [fs](https://nodejs.org/api/fs.html) package:
 
