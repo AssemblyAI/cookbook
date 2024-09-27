@@ -272,3 +272,8 @@
   path: streaming-stt/terminate_realtime_programmatically.ipynb
   tags:
     - streaming-speech-to-text
+
+    - title: Do more with the Python SDK
+  path: core-transcription/do-more-with-sdk-python.ipynb
+  tags:
+    - speech-to-text
