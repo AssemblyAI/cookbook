@@ -272,3 +272,8 @@
   path: streaming-stt/terminate_realtime_programmatically.ipynb
   tags:
     - streaming-speech-to-text
+
+- title: Transcribe system audio in real-time (macOS)
+  path: streaming-stt/transcribe_system_audio.ipynb
+  tags:
+    - streaming-speech-to-text
