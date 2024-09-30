@@ -46,11 +46,12 @@ Most code examples are written in Python or Javascript, but the concepts contain
 ## Streaming STT 🕒
 [Transcribe files in real-time with Node.js](streaming-stt/file-transcription-nodejs)\
 [Use Streaming STT with Python](streaming-stt/real-time.ipynb)\
-[Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)      \
+[Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)\
 [Use LeMUR with Streaming STT](streaming-stt/real_time_lemur.ipynb)\
 [Terminate Streaming STT session after a fixed duration of inactivity](streaming-stt/terminate_realtime_programmatically.ipynb)\
 [Use Partial Transcripts](streaming-stt/partial_transcripts.ipynb)\
-[Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)
+[Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)\
+🆕[Stream system audio (macOS)](streaming-stt/transcribe_system_audio.ipynb)
 
 ## LeMUR 🐾
 [Process Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
