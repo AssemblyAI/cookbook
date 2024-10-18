@@ -158,6 +158,11 @@
   tags:
     - speech-to-text
 
+- title: Identify Duplicate Channels in Stereo Files
+  path: core-transcription/identify_duplicate_channels.ipynb
+  tags:
+    - speech-to-text
+
 - title: Leverage LeMUR for customer call sentiment analysis
   path: lemur/call-sentiment-analysis.ipynb
   tags:
@@ -280,5 +285,10 @@
 
 - title: Transcribe system audio in real-time (macOS)
   path: streaming-stt/transcribe_system_audio.ipynb
+  tags:
+    - streaming-speech-to-text
+
+- title: Real-Time Translation with LeMUR
+  path: streaming-stt/real_time_translation.ipynb
   tags:
     - streaming-speech-to-text

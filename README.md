@@ -25,6 +25,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Automatic Language Detection as separate step from Transcription](core-transcription/automatic-language-detection-separate.ipynb)    
 [Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)   
 🆕[Split audio file to shorter files](core-transcription/split_audio_file)   
+🆕[Identify Duplicate Channels in Stereo Files](core-transcription/identify_duplicate_channels.ipynb)\
 [Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
 [Build a UI for Transcription with Gradio](core-transcription/gradio-frontend.ipynb)  
 [Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)  
@@ -49,6 +50,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Use Streaming STT with Python](streaming-stt/real-time.ipynb)\
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)\
 [Use LeMUR with Streaming STT](streaming-stt/real_time_lemur.ipynb)\
+🆕[Use LeMUR for Real-Time Translation](streaming-stt/real_time_translation.ipynb)\
 [Terminate Streaming STT session after a fixed duration of inactivity](streaming-stt/terminate_realtime_programmatically.ipynb)\
 [Use Partial Transcripts](streaming-stt/partial_transcripts.ipynb)\
 [Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)\
