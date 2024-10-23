@@ -282,3 +282,8 @@
   path: streaming-stt/transcribe_system_audio.ipynb
   tags:
     - streaming-speech-to-text
+
+- title: Use AssemblyAI with Pyannote to generate custom Speaker Labels
+  path: core-transcription/Use_AssemblyAI_with_Pyannote_to_generate_custom_Speaker_Labels.ipynb
+  tags:
+    - speech-to-text
