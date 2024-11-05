@@ -37,6 +37,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Do more with the JavaScript SDK](core-transcription/do-more-with-sdk-js.md)\
 🆕[Do more with the Python SDK](core-transcription/do-more-with-sdk-python.ipynb)\
 🆕[Use AssemblyAI with Pyannote to generate custom Speaker Labels](core-transcription/Use_AssemblyAI_with_Pyannote_to_generate_custom_Speaker_Labels.ipynb)
+🆕[Audio Duration Fix](core-transcription/audio-duration-fix.ipynb)
 
 ## Audio Intelligence 🤖
 [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)  
