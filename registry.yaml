@@ -256,27 +256,32 @@
 - title: Transcribe a local file in real-time in Node.js
   path: streaming-stt/file-transcription-nodejs
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
 
 - title: Capturing complete sentences as partial transcripts with AssemblyAI
   path: streaming-stt/partial_transcripts.ipynb
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
 
 - title: Using Streaming speech-to-text
   path: streaming-stt/real-time.ipynb
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
 
 - title: Using LeMUR with Streaming speech-to-text
   path: streaming-stt/real_time_lemur.ipynb
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
 
 - title: Terminate Streaming session after inactivity
   path: streaming-stt/terminate_realtime_programmatically.ipynb
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
 
 - title: Do more with the Python SDK
   path: core-transcription/do-more-with-sdk-python.ipynb
@@ -286,15 +291,22 @@
 - title: Transcribe system audio in real-time (macOS)
   path: streaming-stt/transcribe_system_audio.ipynb
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
 
 - title: Real-Time Translation with LeMUR
   path: streaming-stt/real_time_translation.ipynb
   tags:
-    - streaming-speech-to-text
+    - streaming
+    - speech-to-text
     
 - title: Use AssemblyAI with Pyannote to generate custom Speaker Labels
   path: core-transcription/Use_AssemblyAI_with_Pyannote_to_generate_custom_Speaker_Labels.ipynb
+  tags:
+    - speech-to-text
+
+- title: Correct audio duration discrepancies for corrupted files
+  path: core-transcription/audio-duration-fix.ipynb
   tags:
     - speech-to-text
 
