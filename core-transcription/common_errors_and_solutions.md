@@ -1,4 +1,4 @@
-# Guide to Common Errors for New AssemblyAI Users
+# Guide to troubleshoot Common Errors
 
 AssemblyAI's API always returns a response even when there is an error. This guide is designed to help you navigate and resolve common issues when implementing AssemblyAI.
 
