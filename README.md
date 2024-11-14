@@ -56,7 +56,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Terminate Streaming STT session after a fixed duration of inactivity](streaming-stt/terminate_realtime_programmatically.ipynb)\
 [Use Partial Transcripts](streaming-stt/partial_transcripts.ipynb)\
 [Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)\
-🆕[Stream system audio (macOS)](streaming-stt/transcribe_system_audio.ipynb)
+🆕[Stream system audio (macOS)](streaming-stt/transcribe_system_audio.ipynb)\
+🆕[Real-Time Best Practices](streaming-stt/real-time-best-practices.ipynb)
 
 ## LeMUR 🐾
 [Process Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  

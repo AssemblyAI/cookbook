@@ -310,3 +310,7 @@
   tags:
     - speech-to-text
 
+- title: Real-Time Best Practices
+  path: streaming-stt/real-time-best-practices.ipynb
+  tags:
+    - streaming
