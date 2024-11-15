@@ -310,3 +310,7 @@
   tags:
     - speech-to-text
 
+- title: Calculate Talk/Listen Ratio of Speakers
+  path: core-transcription/talk-listen-ratio.ipynb
+  tags:
+    - speech-to-text
