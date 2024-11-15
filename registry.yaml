@@ -310,6 +310,11 @@
   tags:
     - speech-to-text
 
+- title: Real-Time Best Practices
+  path: streaming-stt/real-time-best-practices.ipynb
+  tags:
+    - streaming
+ 
 - title: Calculate Talk/Listen Ratio of Speakers
   path: core-transcription/talk-listen-ratio.ipynb
   tags:
