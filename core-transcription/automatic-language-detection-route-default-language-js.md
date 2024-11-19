@@ -53,6 +53,8 @@ const params = {
 
 Define a function called `run`. Within this function create a transcript using the set params. If there is no error, then the transcript ID and text of the original transcript will be printed. If there is an error with the transcript, it will check if it is a `language_confidence` related error message. If this is true, a message will be printed saying that the transcript is being rerun. The transcript then is run again with the `language_code` set to the `default_language`, and the transcript ID and text of the new transcript are both printed. This new transcript will use the original params except `language_detection` will be turned off, `language_confidence_threshold` will be set to `null`, and the `language_code` will be set to the `default_language`. Once it is finished, the new transcript ID and text will be printed.
 
+NOTE: You will not be charged for the first transcript if there is an error. You will only be charged for the transcript that processes successfully.
+
 ```js
 const run = async (params) => {
 
