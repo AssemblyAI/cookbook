@@ -324,3 +324,13 @@
   path: core-transcription/speaker-diarization-with-async-chunking.ipynb
   tags:
     - speech-to-text
+
+- title: Near-Realtime Python Speech-to-Text App
+  path: https://github.com/AssemblyAI-Solutions/async-chunk-py
+  tags:
+    - speech-to-text
+
+- title: Near-Realtime Node.js Speech-to-Text App
+  path: https://github.com/AssemblyAI-Solutions/async-chunk-js
+  tags:
+    - speech-to-text
