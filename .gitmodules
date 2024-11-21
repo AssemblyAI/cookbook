@@ -4,3 +4,9 @@
 [submodule "streaming-stt/twilio-realtime-tutorial"]
 	path = streaming-stt/twilio-realtime-tutorial
 	url = https://github.com/AssemblyAI/twilio-realtime-tutorial
+[submodule "core-transcription/near-realtime-python-stt-app"]
+	path = core-transcription/near-realtime-python-stt-app
+	url = https://github.com/AssemblyAI-Solutions/async-chunk-py
+[submodule "core-transcription/near-realtime-js-stt-app"]
+	path = core-transcription/near-realtime-js-stt-app
+	url = https://github.com/AssemblyAI-Solutions/async-chunk-js
