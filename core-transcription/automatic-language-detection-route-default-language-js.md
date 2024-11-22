@@ -30,7 +30,15 @@ const client = new AssemblyAI({
 });
 ```
 
-Define an `audio_url` that is set to a link to the audio file. Define and set the parameters `audio: audioUrl` and `language_detection: true` in addition to any other parameters desired for this transcription.  
+Define a `default_language`, which should be set to the [language code](https://www.assemblyai.com/docs/getting-started/supported-languages) that will be used to rerun the transcript if language detection runs with low `language_confidence`.
+
+```js
+const default_language = 'LANGUAGE_CODE';
+```
+
+Define an `audio_url` that is set to a link to the audio file. Define and set the parameters `audio: audioUrl` and `language_detection: true`. We also need to define our `language_confidence_threshold`. For the purposes of this example, we'll set it to 0.8, representing 80% confidence.
+
+If a transcript ends up with a `language_confidence` below this value, the transcript will error out and will return the transcript using the `default_language`.  
 
 ```js
 const audioUrl = 'https://example.org/audio.mp3';
@@ -38,18 +46,14 @@ const audioUrl = 'https://example.org/audio.mp3';
 const params = {
     audio: audioUrl,
     language_detection: true,
+    language_confidence_threshold: 0.8,
     // Add any other params
 };
 ```
 
-Define a `default_language`, which should be set to the [language code](https://www.assemblyai.com/docs/getting-started/supported-languages) that will be used to rerun the transcript if language detection runs with low confidence, and a `confidence_threshold`, which should be set to a number between 0 and 1. The `confidence_threshold` will be the barometer for determining if the transcript needs to be run again using the `default_language`.
+Define a function called `run`. Within this function create a transcript using the set params. If there is no error, then the transcript ID and text of the original transcript will be printed. If there is an error with the transcript, it will check if it is a `language_confidence` related error message. If this is true, a message will be printed saying that the transcript is being rerun. The transcript then is run again with the `language_code` set to the `default_language`, and the transcript ID and text of the new transcript are both printed. This new transcript will use the original params except `language_detection` will be turned off, `language_confidence_threshold` will be set to `null`, and the `language_code` will be set to the `default_language`. Once it is finished, the new transcript ID and text will be printed.
 
-```js
-const default_language = 'LANGUAGE_CODE';
-const confidence_threshold = 0.4;
-```
-
-Define a function called `run`. Within this function create a transcript using the set params. If there is an error with the transcript, the error message will be printed. If there is no error, this function will then check the `language_confidence` of the transcript against the `confidence_threshold`. If it is higher, then it will print the original transcript ID and text. If it is lower and `language_detection` is set to `true`, then it will print out a message informing the user that the transcription will run one more time. This new transcript will use the original params except `language_detection` will be turned off and the `language_code` will be set to the `default_language`. Once it is finished, the new transcript ID and text will be printed.
+NOTE: You will not be charged for the first transcript if there is an error. You will only be charged for the transcript that processes successfully.
 
 ```js
 const run = async (params) => {
@@ -57,20 +61,21 @@ const run = async (params) => {
     const transcript = await client.transcripts.transcribe(params);
 
     if (transcript.status === 'error') {
+        if (transcript.error.includes("below the requested confidence threshold value")) {
+            console.log(
+                `${transcript.error}. Running transcript again with language set to '${default_language}'.`
+            );
+            params = {...params, language_detection: false, language_confidence_threshold: null, language_code: default_language};
+            run(params);
+            return;
+        }
+
         console.log(transcript.error);
         return;
     }
 
-    if (transcript.language_confidence < confidence_threshold && transcript.language_detection === true) {
-        console.log(
-            `Low confidence that "${transcript.language_code}" is the correct language. Running transcript again with language set to "${default_language}".`
-        );
-        params = {...params, language_detection: false, language_code: default_language};
-        run(params);
-        return;
-    }
     console.log(`Transcript ID: ${transcript.id}`);
-    console.log(`Text: ${transcript.text}`);
+    console.log(transcript.text);
 };
 
 run(params);
