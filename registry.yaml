@@ -334,3 +334,8 @@
   path: https://github.com/AssemblyAI-Solutions/async-chunk-js
   tags:
     - speech-to-text
+
+- title: LeMUR Transcript Citations
+  path: lemur/lemur-transcript-citations.ipynb
+  tags:
+    - lemur

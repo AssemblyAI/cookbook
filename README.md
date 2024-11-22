@@ -80,7 +80,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Ask questions about a transcript using LeMUR's Task Endpoint](lemur/task-endpoint-structured-QA.ipynb)  
 🆕[Create Custom Summaries using LeMUR's Task Endpoint](lemur/task-endpoint-custom-summary.ipynb)    
 🆕[Receive AI coaching from LeMUR's Task Endpoint](lemur/task-endpoint-ai-coach.ipynb)    
-🆕[Generate Action Items using LeMUR's Task Endpoint](lemur/task-endpoint-action-items.ipynb)
+🆕[Generate Action Items using LeMUR's Task Endpoint](lemur/task-endpoint-action-items.ipynb)\
+🆕[Transcript Citations](lemur/lemur-transcript-citations.ipynb)
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:
