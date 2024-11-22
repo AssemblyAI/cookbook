@@ -314,8 +314,23 @@
   path: streaming-stt/real-time-best-practices.ipynb
   tags:
     - streaming
- 
+
 - title: Calculate Talk/Listen Ratio of Speakers
   path: core-transcription/talk-listen-ratio.ipynb
+  tags:
+    - speech-to-text
+
+- title: Speaker Diarization with Async Chunking
+  path: core-transcription/speaker-diarization-with-async-chunking.ipynb
+  tags:
+    - speech-to-text
+
+- title: Near-Realtime Python Speech-to-Text App
+  path: https://github.com/AssemblyAI-Solutions/async-chunk-py
+  tags:
+    - speech-to-text
+
+- title: Near-Realtime Node.js Speech-to-Text App
+  path: https://github.com/AssemblyAI-Solutions/async-chunk-js
   tags:
     - speech-to-text
