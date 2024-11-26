@@ -49,7 +49,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 [Identify Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)      
 [Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)      
 [Summarize Virtual Meetings](audio-intelligence/summarization.ipynb)      
-[Create a redacted transcript with Entity Detection](audio-intelligence/entity_redaction.ipynb)      
+[Create a redacted transcript with Entity Detection](audio-intelligence/entity_redaction.ipynb)\
+[Label Content with Topic Tags](audio-intelligence/topic_detection.ipynb)
 
 ## Streaming STT 🕒
 [Transcribe files in real-time with Node.js](streaming-stt/file-transcription-nodejs)\
@@ -81,7 +82,8 @@ Most code examples are written in Python or Javascript, but the concepts contain
 🆕[Create Custom Summaries using LeMUR's Task Endpoint](lemur/task-endpoint-custom-summary.ipynb)    
 🆕[Receive AI coaching from LeMUR's Task Endpoint](lemur/task-endpoint-ai-coach.ipynb)    
 🆕[Generate Action Items using LeMUR's Task Endpoint](lemur/task-endpoint-action-items.ipynb)\
-🆕[Create Transcript Citations using OpenAI embeddings](lemur/lemur-transcript-citations.ipynb)
+🆕[Create Transcript Citations using OpenAI embeddings](lemur/lemur-transcript-citations.ipynb)\
+🆕[Create Custom Topic Tags](lemur/custom-topic-tags.ipynb)
 
 ## SDKs and Other Resources 📚
 Beyond the code examples here, you can learn about the AssemblyAI API from the following resources:

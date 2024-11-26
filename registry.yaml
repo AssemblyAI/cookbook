@@ -339,3 +339,13 @@
   path: lemur/lemur-transcript-citations.ipynb
   tags:
     - lemur
+
+- title: Create Custom Topic Tags
+  path: lemur/custom-topic-tags.ipynb
+  tags:
+    - lemur
+
+- title: Label Content with Topic Tags
+  path: audio-intelligence/topic_detection.ipynb
+  tags:
+    - audio-intelligence
