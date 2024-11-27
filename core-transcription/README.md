@@ -57,4 +57,4 @@ On top of the core transcription, you can enable other features and models, such
 
 ### Do More with our SDKS
 [Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
-[Do more with the Python SDK](do-more-with-sdk-python.ipynb)\
+[Do more with the Python SDK](do-more-with-sdk-python.ipynb)
