@@ -5,7 +5,7 @@ On top of the core transcription, you can enable other features and models, such
 ## All Core Transcription Cookbooks
 
 ### General
-[Transcribe an Audio File](core-transcription/transcribe.ipynb) 
+[Transcribe an Audio File](core-transcription/transcribe.ipynb)<br> 
 [Specify a Language](core-transcription/specify-language.ipynb)  
 [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)
 [Do more with the JavaScript SDK](core-transcription/do-more-with-sdk-js.md)\
