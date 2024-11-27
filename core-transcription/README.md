@@ -7,12 +7,10 @@ On top of the core transcription, you can enable other features and models, such
 ### General
 [Transcribe an Audio File](core-transcription/transcribe.ipynb)<br> 
 [Specify a Language](core-transcription/specify-language.ipynb)  
-[Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)
+[Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)<br>
 [Do more with the JavaScript SDK](core-transcription/do-more-with-sdk-js.md)\
 [Do more with the Python SDK](core-transcription/do-more-with-sdk-python.ipynb)\
 [Split audio file to shorter files](core-transcription/split_audio_file)  
-[Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
-[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
 [Build a UI for Transcription with Gradio](core-transcription/gradio-frontend.ipynb)  
 [Detect Low Confidence Words in a Transcript](core-transcription/detecting-low-confidence-words.md)  
 
@@ -44,6 +42,10 @@ On top of the core transcription, you can enable other features and models, such
 ### Subtitles
 [Generate Subtitles for Videos](core-transcription/subtitles.ipynb)\
 [Create Subtitles with Speaker Labels](core-transcription/speaker_labelled_subtitles.ipynb)  
+
+### Delete Transcripts
+[Delete a Transcript ](core-transcription/delete_transcript.ipynb)  
+[Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)  
 
 ### Error Handling and File Corrections
 [Troubleshoot common errors when starting to use our API](core-transcription/common_errors_and_solutions.md)<br>
