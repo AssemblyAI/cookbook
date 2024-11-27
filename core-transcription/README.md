@@ -29,7 +29,7 @@ On top of the core transcription, you can enable other features and models, such
 ### Speaker Labels
 [Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)<br>
 [Generate Speaker Labels with Make.com](core-transcription/make.com-speaker-labels.md)\
-[Calculate Talk/Listen Ratio of Speakers](core-transcription/talk-listen-ratio.ipynb)
+[Calculate Talk/Listen Ratio of Speakers](core-transcription/talk-listen-ratio.ipynb)<br>
 [Create a speaker timeline with Speaker Labels](core-transcription/speaker_timeline.ipynb)\
 [Use AssemblyAI with Pyannote to generate custom Speaker Labels](core-transcription/Use_AssemblyAI_with_Pyannote_to_generate_custom_Speaker_Labels.ipynb) 
 
