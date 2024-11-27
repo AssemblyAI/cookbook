@@ -8,8 +8,6 @@ On top of the core transcription, you can enable other features and models, such
 [Transcribe an Audio File](transcribe.ipynb)<br> 
 [Specify a Language](specify-language.ipynb)  
 [Transcribe YouTube videos](transcribe_youtube_videos.ipynb)<br>
-[Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
-[Do more with the Python SDK](do-more-with-sdk-python.ipynb)\
 [Split audio file to shorter files](split_audio_file)  
 [Build a UI for Transcription with Gradio](gradio-frontend.ipynb)  
 [Detect Low Confidence Words in a Transcript](detecting-low-confidence-words.md)  
@@ -56,3 +54,7 @@ On top of the core transcription, you can enable other features and models, such
 ### Translation
 [Translate Transcripts](translate_transcripts.ipynb)  
 [Translate Subtitles](translate_subtitles.ipynb)     
+
+### Do More with our SDKS
+[Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
+[Do more with the Python SDK](do-more-with-sdk-python.ipynb)\
