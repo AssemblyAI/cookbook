@@ -30,6 +30,6 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 | **Summarization**   | [Create Custom Summaries using LeMUR's Task Endpoint](task-endpoint-custom-summary.ipynb) |
 | **Topic Detection**   | 🆕 [Create Custom Topic Tags](lemur/custom-topic-tags.ipynb) |
 
-### Use Case Specific
+### Use Case-Specific LeMUR Workflows
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)   
 [How to Pass Context from Previous LeMUR Requests](past-response-prompts.ipynb)  
