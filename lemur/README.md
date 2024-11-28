@@ -3,7 +3,7 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 
 ## All LeMUR Cookbooks
 
-### General
+### Basic LeMUR Workflows
 [Process Audio Files with LLMs Using LeMUR](using-lemur.ipynb)
 [Use LeMUR Specialized Endpoints](specialized-endpoints.ipynb)<br>
 🆕 [Receive AI coaching from LeMUR's Task Endpoint](task-endpoint-ai-coach.ipynb)   
@@ -28,7 +28,7 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 | **Custom Vocabulary** | [Boost Transcription Accuracy with LeMUR](custom-vocab-lemur.ipynb) |
 | **Auto Chapters**   | [Creating Chapter Summaries with LeMUR's Custom Text Input Parameter](input-text-chapters.ipynb)  |
 | **Summarization**   | [Create Custom Summaries using LeMUR's Task Endpoint](task-endpoint-custom-summary.ipynb) |
-| **Topic Dectection**   | 🆕 [Create Custom Topic Tags](lemur/custom-topic-tags.ipynb) |
+| **Topic Detection**   | 🆕 [Create Custom Topic Tags](lemur/custom-topic-tags.ipynb) |
 
 ### Use Case Specific
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)   
