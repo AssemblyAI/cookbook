@@ -18,8 +18,8 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 ### Quotes and Citations with LeMUR
 [Extract Dialogue Data with LeMUR and JSON](dialogue-data.ipynb)         
 [Extract Citations from a Transcript with Semantic Search](transcript-citations.ipynb)    
-[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](timestamped-transcripts.ipynb)
-🆕[Create Transcript Citations using OpenAI embeddings](lemur/lemur-transcript-citations.ipynb)
+[Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](timestamped-transcripts.ipynb) <br>
+🆕 [Create Transcript Citations using OpenAI embeddings](lemur/lemur-transcript-citations.ipynb)
 
 ### Substitute Audio Intelligence & Other Core Transcription Features with LeMUR
 | Model/Feature       | Use with LeMUR                           |
