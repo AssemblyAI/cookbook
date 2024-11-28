@@ -53,7 +53,12 @@ On top of the core transcription, you can enable other features and models, such
 
 ### Translation
 [Translate Transcripts](translate_transcripts.ipynb)  
-[Translate Subtitles](translate_subtitles.ipynb)     
+[Translate Subtitles](translate_subtitles.ipynb)
+
+### Async Chunking for Near-realtime Transcription
+🆕 [Near-Realtime Python Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-py)\
+🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)
+
 
 ### Do More with our SDKS
 [Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
