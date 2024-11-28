@@ -35,7 +35,7 @@ On top of the core transcription, you can enable other features and models, such
 [Use Automatic Language Detection](automatic-language-detection.ipynb)    
 [Automatic Language Detection as separate step from Transcription](automatic-language-detection-separate.ipynb)    
 [Route to Default Language if Language Detection Confidence is Low - JS](automatic-language-detection-route-default-language-js.md)\
-[Route to Default Language if Language Detection Confidence is Low - Python](automatic-language-detection-route-default-language-python.ipynb)
+[Route to Default Language if Language Detection Confidence is Low - Python](automatic-language-detection-route-default-language-python.ipynb)<br>
 [Route to Nano Speech Model if Language Confidence is Low](automatic-language-detection-route-nano-model.ipynb)
 
 ### Subtitles
