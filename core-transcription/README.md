@@ -85,7 +85,7 @@ On top of the core transcription, you can enable other features and models, such
 <a name="chunking"></a>
 ### Async Chunking for Near-Realtime Transcription
 🆕 [Near-Realtime Python Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-py)\
-🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)
+🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)\
 [Split audio file to shorter files](split_audio_file)
 
 <a name="do-more-with-sdk"></a>
