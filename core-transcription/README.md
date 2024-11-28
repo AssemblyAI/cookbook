@@ -2,6 +2,11 @@
 The Speech Recognition model enables you to transcribe spoken words into written text and is the foundation of all AssemblyAI products.
 On top of the core transcription, you can enable other features and models, such as [Speaker Diarization](https://www.assemblyai.com/docs/speech-to-text/speaker-diarization), by adding additional parameters to the same transcription request.
 
+## Table of Contents
+
+- [Do More with our SDKS](https://github.com/AssemblyAI/cookbook/edit/master/core-transcription/README.md#do-more-with-our-sdks)
+
+
 ## All Core Transcription Cookbooks
 
 ### General
@@ -64,7 +69,6 @@ On top of the core transcription, you can enable other features and models, such
 ### Async Chunking for Near-realtime Transcription
 🆕 [Near-Realtime Python Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-py)\
 🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)
-
 
 ### Do More with our SDKS
 [Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
