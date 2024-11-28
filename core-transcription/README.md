@@ -15,7 +15,6 @@ On top of the core transcription, you can enable other features and models, such
 
 ### Batch Transcription
 [Transcribe a batch of files using AssemblyAI](transcribe_batch_of_files)   
-[Use our SDK transcribe a batch of files](SDK_transcribe_batch_of_files)  
 [Transcribe multiple files simultaneously using our Python SDK](SDK_transcribe_batch_of_files/batch_transcription.ipynb)      
 [Transcribe multiple files simultaneously using our Node.js SDK](SDK-Node-batch.md) 
 
