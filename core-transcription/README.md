@@ -25,7 +25,7 @@ On top of the core transcription, you can enable other features and models, such
 [Transcribe GitHub Files](transcribing-github-files.md) 
 
 ### Speaker Labels
-[Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)<br>
+[Identify Speakers in Audio Recordings](speaker_labels.ipynb)<br>
 [Generate Speaker Labels with Make.com](make.com-speaker-labels.md)\
 [Calculate Talk/Listen Ratio of Speakers](talk-listen-ratio.ipynb)<br>
 [Create a speaker timeline with Speaker Labels](speaker_timeline.ipynb)\
