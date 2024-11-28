@@ -4,7 +4,7 @@ On top of the core transcription, you can enable other features and models, such
 
 ## Table of Contents
 
-- [Basic Transcription Cookbooks](#basic)
+- [Basic Transcription](#basic)
 - [Batch Transcription](#batch)
 - [Hosting Audio Files](#host-files)
 - [Speaker Labels](#speaker-labels)
