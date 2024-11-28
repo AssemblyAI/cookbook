@@ -3,7 +3,7 @@ AssemblyAI's Streaming Speech-to-Text (STT) allows you to transcribe live audio 
 
 ## All Streaming Cookbooks
 
-### General
+### Basic Streaming Workflows
 [Transcribe files in real-time with Node.js](file-transcription-nodejs)\
 [Use Streaming STT with Python](real-time.ipynb)\
 [Terminate Streaming STT session after a fixed duration of inactivity](terminate_realtime_programmatically.ipynb)\
@@ -12,7 +12,7 @@ AssemblyAI's Streaming Speech-to-Text (STT) allows you to transcribe live audio 
 🆕 [ Real-Time Best Practices](real-time-best-practices.ipynb)
 [Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)
 
-### Streaming for Front-End Application
+### Streaming for Front-End Applications
 [Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)
 
 ### Streaming with LeMUR
