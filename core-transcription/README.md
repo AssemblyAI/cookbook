@@ -41,7 +41,8 @@ On top of the core transcription, you can enable other features and models, such
 
 ### Subtitles
 [Generate Subtitles for Videos](subtitles.ipynb)\
-[Create Subtitles with Speaker Labels](speaker_labelled_subtitles.ipynb)  
+[Create Subtitles with Speaker Labels](speaker_labelled_subtitles.ipynb) 
+[Create custom-length subtitles with AssemblyAI](subtitle_creation_by_word_count.ipynb)
 
 ### Delete Transcripts
 [Delete a Transcript ](delete_transcript.ipynb)  
