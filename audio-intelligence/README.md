@@ -1,4 +1,4 @@
-# Audio Intelligence 
+# Audio Intelligence 🤖
 Use our Audio Intelligence models to analyze audio and gain additional insights beyond speech to text.
 
 ## All Audio Intelligence Cookbooks
