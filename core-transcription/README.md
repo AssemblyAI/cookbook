@@ -49,6 +49,7 @@ On top of the core transcription, you can enable other features and models, such
 ### Error Handling and File Corrections
 [Troubleshoot common errors when starting to use our API](common_errors_and_solutions.md)<br>
 [Automatically Retry Server Errors](retry-server-error.ipynb)  
+[Automatically Retry Upload Errors](retry-upload-error.ipynb)\
 [Identify Duplicate Channels in Stereo Files](identify_duplicate_channels.ipynb)\
 [Correct Audio Duration Discrepancies with Multi-Tool Validation and Transcoding
 ](audio-duration-fix.ipynb)
