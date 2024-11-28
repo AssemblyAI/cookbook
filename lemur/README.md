@@ -4,7 +4,7 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 ## All LeMUR Cookbooks
 
 ### Basic LeMUR Workflows
-[Process Audio Files with LLMs Using LeMUR](using-lemur.ipynb)
+[Process Audio Files with LLMs Using LeMUR](using-lemur.ipynb)<br>
 [Use LeMUR Specialized Endpoints](specialized-endpoints.ipynb)<br>
 🆕 [Receive AI coaching from LeMUR's Task Endpoint](task-endpoint-ai-coach.ipynb)   
 🆕 [Generate Action Items using LeMUR's Task Endpoint](task-endpoint-action-items.ipynb)<br> 
@@ -15,13 +15,13 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 [Processing Speaker Labels with LeMUR's Custom Text Input Parameter](input-text-speaker-labels.ipynb)  
 [Use LeMUR for Speaker Identification](speaker-identification.ipynb)  
 
-### Quotes and Citations with LeMUR
+### Get Quotes and Citations with LeMUR
 [Extract Dialogue Data with LeMUR and JSON](dialogue-data.ipynb)         
 [Extract Citations from a Transcript with Semantic Search](transcript-citations.ipynb)    
 [Extract Quotes from a Transcript with LeMUR's Custom Text Input Parameter](timestamped-transcripts.ipynb) <br>
 🆕 [Create Transcript Citations using OpenAI embeddings](lemur/lemur-transcript-citations.ipynb)
 
-### Substitute Audio Intelligence & Other Core Transcription Features with LeMUR
+### Substitute Audio Intelligence with LeMUR
 | Model/Feature       | Use with LeMUR                           |
 |----------------|-----------------------------------|
 | **Sentiment Analysis** | [Leverage LeMUR for Customer Call Sentiment Analysis](call-sentiment-analysis.ipynb) |
