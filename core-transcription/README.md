@@ -4,18 +4,17 @@ On top of the core transcription, you can enable other features and models, such
 
 ## Table of Contents
 
-- [Basic Transcription](#basic)
+- [Basic Transcription Workflows](#basic)
 - [Batch Transcription](#batch)
 - [Hosting Audio Files](#host-files)
 - [Speaker Labels](#speaker-labels)
 - [Automatic Language Detection](#ald)
 - [Subtitles](#subtitles)
 - [Delete Transcripts](#delete)
-- [Error Handling](#errors)
-- [Translate](#translate)
-- [Chunking](#chunking)
+- [Error Handling and Audio File Fixes](#errors)
+- [Translatation](#translate)
+- [Async Chunking](#chunking)
 - [Do More with our SDKs](#do-more-with-sdk)
-- 
 
 
 ## All Core Transcription Cookbooks
@@ -25,7 +24,6 @@ On top of the core transcription, you can enable other features and models, such
 [Transcribe an Audio File](transcribe.ipynb)<br> 
 [Specify a Language](specify-language.ipynb)  
 [Transcribe YouTube videos](transcribe_youtube_videos.ipynb)<br>
-[Split audio file to shorter files](split_audio_file)  
 [Build a UI for Transcription with Gradio](gradio-frontend.ipynb)  
 [Detect Low Confidence Words in a Transcript](detecting-low-confidence-words.md)  
 
@@ -71,7 +69,7 @@ On top of the core transcription, you can enable other features and models, such
 [Delete transcripts after 24 hours of creation](schedule_delete.ipynb)  
 
 <a name="errors"></a>
-### Error Handling and File Corrections
+### Error Handling and Audio File Fixes
 [Troubleshoot common errors when starting to use our API](common_errors_and_solutions.md)<br>
 [Automatically Retry Server Errors](retry-server-error.ipynb)  
 [Automatically Retry Upload Errors](retry-upload-error.ipynb)\
@@ -85,9 +83,10 @@ On top of the core transcription, you can enable other features and models, such
 [Translate Subtitles](translate_subtitles.ipynb)
 
 <a name="chunking"></a>
-### Async Chunking for Near-realtime Transcription
+### Async Chunking for Near-Realtime Transcription
 🆕 [Near-Realtime Python Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-py)\
 🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)
+[Split audio file to shorter files](split_audio_file)
 
 <a name="do-more-with-sdk"></a>
 ### Do More with our SDKS
