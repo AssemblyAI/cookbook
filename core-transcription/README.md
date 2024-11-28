@@ -4,7 +4,7 @@ On top of the core transcription, you can enable other features and models, such
 
 ## Table of Contents
 
-- [Do More with our SDKS](https://github.com/AssemblyAI/cookbook/edit/master/core-transcription/README.md#do-more-with-our-sdks)
+- [click here to jump to my anchor](#custom_anchor_name)
 
 
 ## All Core Transcription Cookbooks
@@ -70,6 +70,7 @@ On top of the core transcription, you can enable other features and models, such
 🆕 [Near-Realtime Python Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-py)\
 🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)
 
+<a name="custom_anchor_name"></a>
 ### Do More with our SDKS
 [Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
 [Do more with the Python SDK](do-more-with-sdk-python.ipynb)
