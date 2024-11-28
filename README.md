@@ -11,7 +11,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
   <summary>Core Transcription 🎙️</summary>
 
   [Transcribe from an AWS S3 Bucket](core-transcription/transcribe_from_s3.ipynb)<br>
-  [Identify Speakers in Audio Recordings](audio-intelligence/speaker_labels.ipynb)<br>
+  [Identify Speakers in Audio Recordings](core-transcription/speaker_labels.ipynb)<br>
   [Specify a Language](core-transcription/specify-language.ipynb)<br>
   [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)<br>
   [Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)<br>
