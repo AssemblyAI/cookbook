@@ -30,6 +30,7 @@ On top of the core transcription, you can enable other features and models, such
 [Calculate Talk/Listen Ratio of Speakers](talk-listen-ratio.ipynb)<br>
 [Create a speaker timeline with Speaker Labels](speaker_timeline.ipynb)\
 [Use AssemblyAI with Pyannote to generate custom Speaker Labels](Use_AssemblyAI_with_Pyannote_to_generate_custom_Speaker_Labels.ipynb) 
+[Speaker Diarization with Async Chunking](core-transcription/speaker-diarization-with-async-chunking.ipynb)
 
 ### Automatic Language Detection
 [Use Automatic Language Detection](automatic-language-detection.ipynb)    
