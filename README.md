@@ -26,7 +26,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 ### Audio Intelligence
 🗂️ Our Audio Intelligence models analyze audio and provide additional insights beyond speech to text.
 <details>
-  <summary>Audio Intelligence 🤖</summary>
+  <summary>Audio Intelligence Cookbooks 🤖</summary>
 
   [Create Summarized Chapters from Podcasts](audio-intelligence/auto_chapters.ipynb)<br> 
   [Identify Hate Speech in Audio and Video Files](audio-intelligence/content_moderation.ipynb)     
@@ -41,7 +41,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 ### Streaming STT
 🗂️ Transcribe live audio streams with high accuracy and low latency.
 <details>
-  <summary>Streaming STT 🕒</summary>
+  <summary>Streaming STT Cookbooks 🕒</summary>
 
   [Transcribe files in real-time with Node.js](streaming-stt/file-transcription-nodejs)<br> 
   [Use Streaming STT with Python](streaming-stt/real-time.ipynb)<br> 
@@ -56,7 +56,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 ### LeMUR
 🗂️ Apply Large Language Models to spoken data.
 <details>
-  <summary>LeMUR 🐾</summary>
+  <summary>LeMUR Cookbooks 🐾</summary>
 
   [Process Audio Files with LLMs Using LeMUR](lemur/using-lemur.ipynb)  
   [Extract Dialogue Data with LeMUR and JSON](lemur/dialogue-data.ipynb)         
