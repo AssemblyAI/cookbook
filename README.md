@@ -7,18 +7,24 @@ Most code examples are written in Python or Javascript, but the concepts contain
 
 
 ## Cookbook Categories
+
+### Core Transcription
+🗂️ Core Transcription enables you to transcribe spoken words into written text and is the foundation of all AssemblyAI products.
 <details>
-  <summary>Core Transcription 🎙️</summary>
+  <summary>Core Transcription Cookbooks 🎙️</summary>
 
   [Transcribe from an AWS S3 Bucket](core-transcription/transcribe_from_s3.ipynb)<br>
   [Identify Speakers in Audio Recordings](core-transcription/speaker_labels.ipynb)<br>
   [Specify a Language](core-transcription/specify-language.ipynb)<br>
   [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)<br>
   [Delete transcripts after 24 hours of creation](core-transcription/schedule_delete.ipynb)<br>
-  📖 👀 [See all Core Transcription Cookbooks](core-transcription/README.md)❗
+  📖 👀 [Click here to see all Core Transcription cookbooks](core-transcription/README.md)❗
  
 </details>
+<hr/>
 
+### Audio Intelligence
+🗂️ Our Audio Intelligence models analyze audio and provide additional insights beyond speech to text.
 <details>
   <summary>Audio Intelligence 🤖</summary>
 
@@ -27,10 +33,13 @@ Most code examples are written in Python or Javascript, but the concepts contain
   [Identify Highlights in Audio and Video Files](audio-intelligence/key_phrases.ipynb)   
   [Create a redacted transcript with Entity Detection](audio-intelligence/entity_redaction.ipynb)    
   [Summarize Virtual Meetings](audio-intelligence/summarization.ipynb)      
-  📖 👀 [See all Audio Intelligence Cookbooks](audio-intelligence/README.md)❗
+  📖 👀 [Click here to see all Audio Intelligence cookbooks](audio-intelligence/README.md)❗
  
 </details>
+<hr/>
 
+### Streaming STT
+🗂️ Transcribe live audio streams with high accuracy and low latency.
 <details>
   <summary>Streaming STT 🕒</summary>
 
@@ -39,10 +48,13 @@ Most code examples are written in Python or Javascript, but the concepts contain
   [Use LeMUR with Streaming STT](streaming-stt/real_time_lemur.ipynb)<br> 
   [Use LeMUR for Real-Time Translation](streaming-stt/real_time_translation.ipynb)<br> 
   [Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)<br> 
-  📖 👀 [See all Streaming Cookbooks](streaming-stt/README.md)❗
+  📖 👀 [Click here to see all Streaming cookbooks](streaming-stt/README.md)❗
  
 </details>
+<hr/>
 
+### LeMUR
+🗂️ Apply Large Language Models to spoken data.
 <details>
   <summary>LeMUR 🐾</summary>
 
@@ -51,7 +63,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
   [Boost Transcription Accuracy with LeMUR](lemur/custom-vocab-lemur.ipynb)  
   [Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)    
   [Processing Speaker Labels with LeMUR's Custom Text Input Parameter](lemur/input-text-speaker-labels.ipynb)  
-  📖 👀 [See all Streaming Cookbooks](lemur/README.md)❗
+  📖 👀 [Click here to see all LeMUR cookbooks](lemur/README.md)❗
  
 </details>
 
