@@ -88,6 +88,10 @@ On top of the core transcription, you can enable other features and models, such
 🆕 [Near-Realtime Node.js Speech-to-Text App](https://github.com/AssemblyAI-Solutions/async-chunk-js)\
 [Split audio file to shorter files](split_audio_file)
 
+<a name="migration-guides"></a>
+### Migration Guides
+🆕 [AWS Transcribe to AssemblyAI](migration_guides/aws_to_aai.ipynb)
+
 <a name="do-more-with-sdk"></a>
 ### Do More with our SDKS
 [Do more with the JavaScript SDK](do-more-with-sdk-js.md)\
