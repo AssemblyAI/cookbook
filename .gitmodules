@@ -10,3 +10,6 @@
 [submodule "core-transcription/near-realtime-js-stt-app"]
 	path = core-transcription/near-realtime-js-stt-app
 	url = https://github.com/AssemblyAI-Solutions/async-chunk-js
+[submodule "streaming/dual-channel-transcriber"]
+	path = streaming/dual-channel-transcriber
+	url = https://github.com/AssemblyAI-Solutions/twilio-dual-channel-transcriber-py/tree/main
