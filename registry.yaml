@@ -349,3 +349,8 @@
   path: audio-intelligence/topic_detection.ipynb
   tags:
     - audio-intelligence
+
+- title: Phone Call Segmentation Using LeMUR
+  path: lemur/phone-call-segmentation.ipynb
+  tags:
+    - lemur
