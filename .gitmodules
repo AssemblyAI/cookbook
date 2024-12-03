@@ -12,4 +12,4 @@
 	url = https://github.com/AssemblyAI-Solutions/async-chunk-js
 [submodule "streaming-stt/dual-channel-transcriber"]
 	path = streaming-stt/dual-channel-transcriber
-	url = https://github.com/AssemblyAI-Solutions/twilio-dual-channel-transcriber-py/tree/main
+	url = https://github.com/AssemblyAI-Solutions/twilio-dual-channel-transcriber-py
