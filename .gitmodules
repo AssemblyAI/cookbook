@@ -13,3 +13,6 @@
 [submodule "streaming-stt/dual-channel-transcriber"]
 	path = streaming-stt/dual-channel-transcriber
 	url = https://github.com/AssemblyAI-Solutions/twilio-dual-channel-transcriber-py
+[submodule "streaming-stt/twilio-dual-channel-transcriber"]
+	path = streaming-stt/twilio-dual-channel-transcriber
+	url = https://github.com/AssemblyAI-Solutions/twilio-dual-channel-transcriber-py
