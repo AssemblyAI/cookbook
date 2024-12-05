@@ -19,5 +19,6 @@ AssemblyAI's Streaming Speech-to-Text (STT) allows you to transcribe live audio 
 🆕 [Use LeMUR for Real-Time Translation](real_time_translation.ipynb)
 
 ### Use Case Specific Streaming Workflows
-[Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)
+[Use Twilio with JavaScript SDK](https://github.com/AssemblyAI/twilio-realtime-tutorial)\
+🆕 [Apply noise reduction to audio for Streaming STT](noise_reduction_streaming.ipynb)
 
