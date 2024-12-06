@@ -354,3 +354,13 @@
   path: lemur/phone-call-segmentation.ipynb
   tags:
     - lemur
+
+- title: AWS Transcribe to AssemblyAI
+  path: core-transcription/migration_guides/aws_to_aai.ipynb
+  tags:
+    - speech-to-text
+
+- title: Deepgram to AssemblyAI
+  path: core-transcription/migration_guides/dg_to_aai.ipynb
+  tags:
+    - speech-to-text

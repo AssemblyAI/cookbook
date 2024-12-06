@@ -4,17 +4,21 @@ On top of the core transcription, you can enable other features and models, such
 
 ## Table of Contents
 
-- [Basic Transcription Workflows](#basic)
-- [Batch Transcription](#batch)
-- [Hosting Audio Files](#host-files)
-- [Speaker Labels](#speaker-labels)
-- [Automatic Language Detection](#ald)
-- [Subtitles](#subtitles)
-- [Delete Transcripts](#delete)
-- [Error Handling and Audio File Fixes](#errors)
-- [Translatation](#translate)
-- [Async Chunking](#chunking)
-- [Do More with our SDKs](#do-more-with-sdk)
+- [Core Transcription 🎙️](#core-transcription-️)
+  - [Table of Contents](#table-of-contents)
+  - [All Core Transcription Cookbooks](#all-core-transcription-cookbooks)
+    - [Basic Transcription Workflows](#basic-transcription-workflows)
+    - [Batch Transcription](#batch-transcription)
+    - [Hosting Audio Files](#hosting-audio-files)
+    - [Speaker Labels](#speaker-labels)
+    - [Automatic Language Detection](#automatic-language-detection)
+    - [Subtitles](#subtitles)
+    - [Delete Transcripts](#delete-transcripts)
+    - [Error Handling and Audio File Fixes](#error-handling-and-audio-file-fixes)
+    - [Translation](#translation)
+    - [Async Chunking for Near-Realtime Transcription](#async-chunking-for-near-realtime-transcription)
+    - [Migration Guides](#migration-guides)
+    - [Do More with our SDKS](#do-more-with-our-sdks)
 
 
 ## All Core Transcription Cookbooks
@@ -90,7 +94,8 @@ On top of the core transcription, you can enable other features and models, such
 
 <a name="migration-guides"></a>
 ### Migration Guides
-🆕 [AWS Transcribe to AssemblyAI](migration_guides/aws_to_aai.ipynb)
+🆕 [AWS Transcribe to AssemblyAI](migration_guides/aws_to_aai.ipynb)\
+🆕 [Deepgram to AssemblyAI](migration_guides/dg_to_aai.ipynb)
 
 <a name="do-more-with-sdk"></a>
 ### Do More with our SDKS
