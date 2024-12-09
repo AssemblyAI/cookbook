@@ -95,7 +95,7 @@ On top of the core transcription, you can enable other features and models, such
 <a name="migration-guides"></a>
 ### Migration Guides
 🆕 [AWS Transcribe to AssemblyAI](migration_guides/aws_to_aai.ipynb)\
-🆕 [Deepgram to AssemblyAI](migration_guides/dg_to_aai.ipynb)
+🆕 [Deepgram to AssemblyAI](migration_guides/dg_to_aai.ipynb)<br> 
 🆕 [OpenAI to AssemblyAI](migration_guides/oai_to_aai.ipynb)
 
 <a name="do-more-with-sdk"></a>
