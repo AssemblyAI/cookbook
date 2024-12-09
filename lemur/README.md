@@ -34,4 +34,5 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 [Implement a Sales Playbook Using LeMUR](sales-playbook.ipynb)   
 [How to Pass Context from Previous LeMUR Requests](past-response-prompts.ipynb)<br>
 [Generate Action Items from a Meeting with LeMUR](meeting-action-items.ipynb) <br>
-🆕 [Phone Call Segmentation Using LeMUR](phone-call-segmentation.ipynb)
+[Phone Call Segmentation Using LeMUR](phone-call-segmentation.ipynb) <br>
+🆕 [SOAP Note Generation](soap-note-generation.ipynb)
