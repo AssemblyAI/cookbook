@@ -364,3 +364,8 @@
   path: core-transcription/migration_guides/dg_to_aai.ipynb
   tags:
     - speech-to-text
+
+- title: OpenAI to AssemblyAI
+  path: core-transcription/migration_guides/oai_to_aai.ipynb
+  tags:
+    - speech-to-text
