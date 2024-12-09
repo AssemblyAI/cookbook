@@ -369,3 +369,8 @@
   path: core-transcription/migration_guides/oai_to_aai.ipynb
   tags:
     - speech-to-text
+
+- title: SOAP Note Generation
+  path: lemur/soap-note-generation.ipynb
+  tags:
+    - lemur
