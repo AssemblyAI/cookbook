@@ -374,3 +374,8 @@
   path: lemur/soap-note-generation.ipynb
   tags:
     - lemur
+
+- title: Google to AssemblyAI
+  path: core-transcription/migration_guides/google_to_aai.ipynb
+  tags:
+    - speech-to-text
