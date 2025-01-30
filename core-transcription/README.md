@@ -30,7 +30,7 @@ On top of the core transcription, you can enable other features and models, such
 [Transcribe YouTube videos](transcribe_youtube_videos.ipynb)<br>
 [Build a UI for Transcription with Gradio](gradio-frontend.ipynb)  
 [Detect Low Confidence Words in a Transcript](detecting-low-confidence-words.md)  
-🆕[How To Use The EU Endpoint](how_to_use_the_eu_endpoint.ipynb)  
+🆕 [How To Use The EU Endpoint](how_to_use_the_eu_endpoint.ipynb)  
 
 <a name="batch"></a>
 ### Batch Transcription
