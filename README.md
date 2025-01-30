@@ -13,7 +13,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 <details>
   <summary>Core Transcription Cookbooks 🎙️</summary>
 
-  [Transcribe from an AWS S3 Bucket](core-transcription/transcribe_from_s3.ipynb)<br>
+  🆕[How To Use The EU Endpoint](core-transcription/how_to_use_the_eu_endpoint.ipynb)<br>
   [Identify Speakers in Audio Recordings](core-transcription/speaker_labels.ipynb)<br>
   [Specify a Language](core-transcription/specify-language.ipynb)<br>
   [Transcribe YouTube videos](core-transcription/transcribe_youtube_videos.ipynb)<br>
