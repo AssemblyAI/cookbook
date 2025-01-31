@@ -12,7 +12,7 @@ AssemblyAI's Streaming Speech-to-Text (STT) allows you to transcribe live audio 
 🆕 [ Real-Time Best Practices](real-time-best-practices.ipynb)
 
 ### Streaming for Front-End Applications
-[Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)
+[Real-Time React Example](https://github.com/AssemblyAI-Examples/realtime-react-example)\
 [Vanilla JavaScript Front-End Examples](https://github.com/AssemblyAI/realtime-transcription-browser-js-example/tree/master)
 
 ### Streaming with LeMUR
