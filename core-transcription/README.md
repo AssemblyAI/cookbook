@@ -102,8 +102,8 @@ On top of the core transcription, you can enable other features and models, such
 
 ### Translation
 
-[Async: Translate Transcripts](translate_transcripts.ipynb)\
-[Async: Translate Subtitles](translate_subtitles.ipynb)
+[Async: Translate an AssemblyAI Transcript](translate_transcripts.ipynb)\
+[Async: Translate an AssemblyAI Subtitle Transcript](translate_subtitles.ipynb)
 
 <a name="chunking"></a>
 

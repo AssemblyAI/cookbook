@@ -265,7 +265,7 @@
     - streaming
     - speech-to-text
 
-- title: Streaming - Using Streaming speech-to-text
+- title: Streaming - Using Streaming Speech-To-Text
   path: streaming-stt/real-time.ipynb
   tags:
     - streaming

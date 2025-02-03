@@ -62,7 +62,7 @@ Most code examples are written in Python or Javascript, but the concepts contain
 <details>
   <summary>LeMUR Cookbooks 🐾</summary>
 
-  [LeMUR: Process Audio Files](lemur/using-lemur.ipynb)\
+  [LeMUR: Process Audio Files with LLMs](lemur/using-lemur.ipynb)\
   [LeMUR: Extract Dialogue Data](lemur/dialogue-data.ipynb)\
   [LeMUR: Boost Transcription Accuracy](lemur/custom-vocab-lemur.ipynb)\
   [LeMUR: Extract Citations from a Transcript with Semantic Search](lemur/transcript-citations.ipynb)\

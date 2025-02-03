@@ -6,7 +6,7 @@ Apply Large Language Models to spoken data. A Large Language Model (LLM) is a ma
 
 ### Basic LeMUR Workflows
 
-[LeMUR: Process Audio Files](using-lemur.ipynb)\
+[LeMUR: Process Audio Files with LLMs](using-lemur.ipynb)\
 [LeMUR: Use the Specialized Endpoints](specialized-endpoints.ipynb)\
 🆕 [LeMUR: Receive AI Coaching from the Task Endpoint](task-endpoint-ai-coach.ipynb)\
 🆕 [LeMUR: Generate Action Items Using the Task Endpoint](task-endpoint-action-items.ipynb)\
