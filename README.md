@@ -8,17 +8,17 @@ Most code examples are written in Python or Javascript, but the concepts contain
 
 ## Cookbook Categories
 
-### Core Transcription
+### Speech-To-Text
 
-🗂️ Core Transcription enables you to transcribe spoken words into written text and is the foundation of all AssemblyAI products.
+🗂️ Speech-To-Text enables you to transcribe spoken words into written text and is the foundation of all AssemblyAI products.
 <details>
-  <summary>Core Transcription Cookbooks 🎙️</summary>
+  <summary>Speech-To-Text Cookbooks 🎙️</summary>
 
-  🆕 [Async: How to Use the EU Endpoint](core-transcription/how_to_use_the_eu_endpoint.ipynb)\
-  [Async: Identify Speakers in Audio Recordings](core-transcription/speaker_labels.ipynb)\
-  [Async: Specify a Language](core-transcription/specify-language.ipynb)\
-  [Async: Transcribe YouTube Videos](core-transcription/transcribe_youtube_videos.ipynb)\
-  [Async: Delete transcripts After 24 Hours of Creation](core-transcription/schedule_delete.ipynb)\
+  🆕 [Speech-To-Text: How to Use the EU Endpoint](core-transcription/how_to_use_the_eu_endpoint.ipynb)\
+  [Speech-To-Text: Identify Speakers in Audio Recordings](core-transcription/speaker_labels.ipynb)\
+  [Speech-To-Text: Specify a Language](core-transcription/specify-language.ipynb)\
+  [Speech-To-Text: Transcribe YouTube Videos](core-transcription/transcribe_youtube_videos.ipynb)\
+  [Speech-To-Text: Delete transcripts After 24 Hours of Creation](core-transcription/schedule_delete.ipynb)\
   📖 👀 [Click here to see all Core Transcription cookbooks](core-transcription/README.md)❗
 
 </details>

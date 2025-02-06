@@ -23,7 +23,7 @@
   tags:
     - audio-intelligence
 
-- title: Async - Identify Speakers in Audio Recordings
+- title: Speech-To-Text - Identify Speakers in Audio Recordings
   path: core-transcription/speaker_labels.ipynb
   tags:
     - speech-to-text
@@ -33,132 +33,132 @@
   tags:
     - audio-intelligence
 
-- title: Async - Transcribe Multiple Files Simultaneously
+- title: Speech-To-Text - Transcribe Multiple Files Simultaneously
   path: core-transcription/SDK_transcribe_batch_of_files/batch_transcription.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Split Audio File into Shorter Files
+- title: Speech-To-Text - Split Audio File into Shorter Files
   path: core-transcription/split_audio_file
   tags:
     - speech-to-text
 
-- title: Async - Route to Default Language if Language Detection Confidence is Low
+- title: Speech-To-Text - Route to Default Language if Language Detection Confidence is Low
   path: core-transcription/automatic-language-detection-route-default-language-python.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Guide to Common Errors for New AssemblyAI Users
+- title: Speech-To-Text - Guide to Common Errors for New AssemblyAI Users
   path: core-transcription/common_errors_and_solutions.md
   tags:
     - speech-to-text
 
-- title: Async - Deleting an AssemblyAI Transcript
+- title: Speech-To-Text - Deleting an AssemblyAI Transcript
   path: core-transcription/delete_transcript.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Detecting Low Confidence Words in a Transcript
+- title: Speech-To-Text - Detecting Low Confidence Words in a Transcript
   path: core-transcription/detecting-low-confidence-words.md
   tags:
     - speech-to-text
 
-- title: Async - Do More with the Node SDK
+- title: Speech-To-Text - Do More with the Node SDK
   path: core-transcription/do-more-with-sdk-js.md
   tags:
     - speech-to-text
 
-- title: Async - Build a UI for Transcription with Gradio and Python
+- title: Speech-To-Text - Build a UI for Transcription with Gradio and Python
   path: core-transcription/gradio-frontend.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Iterate Over Speaker Labels with Make.com
+- title: Speech-To-Text - Iterate Over Speaker Labels with Make.com
   path: core-transcription/make.com-speaker-labels.md
   tags:
     - speech-to-text
 
-- title: Async - How to Implement Retry Server Error Logic
+- title: Speech-To-Text - How to Implement Retry Server Error Logic
   path: core-transcription/retry-server-error.ipynb
   tags:
     - speech-to-text
 
-- title: Async - How to Implement Retry Upload Error Logic
+- title: Speech-To-Text - How to Implement Retry Upload Error Logic
   path: core-transcription/retry-upload-error.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Schedule a DELETE Request with AssemblyAI and EasyCron
+- title: Speech-To-Text - Schedule a DELETE Request with AssemblyAI and EasyCron
   path: core-transcription/schedule_delete.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Creating Subtitles with Speaker Labels
+- title: Speech-To-Text - Creating Subtitles with Speaker Labels
   path: core-transcription/speaker_labelled_subtitles.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Create a Speaker Timeline
+- title: Speech-To-Text - Create a Speaker Timeline
   path: core-transcription/speaker_timeline.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Specifying a Language
+- title: Speech-To-Text - Specifying a Language
   path: core-transcription/specify-language.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Create Custom Length Subtitles
+- title: Speech-To-Text - Create Custom Length Subtitles
   path: core-transcription/subtitle_creation_by_word_count.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Generating Subtitles for Videos
+- title: Speech-To-Text - Generating Subtitles for Videos
   path: core-transcription/subtitles.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Speaker Identification Across Files Pinecone and Nvidia's TitaNet Model
+- title: Speech-To-Text - Speaker Identification Across Files Pinecone and Nvidia's TitaNet Model
   path: core-transcription/titanet-speaker-identification.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Transcribing an Audio File
+- title: Speech-To-Text - Transcribing an Audio File
   path: core-transcription/transcribe.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Transcribing from an S3 bucket
+- title: Speech-To-Text - Transcribing from an S3 bucket
   path: core-transcription/transcribe_from_s3.ipynb
   tags:
     - speech-to-text
 
-- title: Async - How to Transcribe YouTube Videos
+- title: Speech-To-Text - How to Transcribe YouTube Videos
   path: core-transcription/transcribe_youtube_videos.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Transcribing Files Hosted on GitHub
+- title: Speech-To-Text - Transcribing Files Hosted on GitHub
   path: core-transcription/transcribing-github-files.md
   tags:
     - speech-to-text
 
-- title: Async - Guide to Using Google Drive Links
+- title: Speech-To-Text - Guide to Using Google Drive Links
   path: core-transcription/transcribing-google-drive-file.md
   tags:
     - speech-to-text
 
-- title: Async - Translating an AssemblyAI Subtitle Transcript
+- title: Speech-To-Text - Translating an AssemblyAI Subtitle Transcript
   path: core-transcription/translate_subtitles.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Translating an AssemblyAI Transcript
+- title: Speech-To-Text - Translating an AssemblyAI Transcript
   path: core-transcription/translate_transcripts.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Identify Duplicate Channels in Stereo Files
+- title: Speech-To-Text - Identify Duplicate Channels in Stereo Files
   path: core-transcription/identify_duplicate_channels.ipynb
   tags:
     - speech-to-text
@@ -284,7 +284,7 @@
     - streaming
     - speech-to-text
 
-- title: Async - Do More with the Python SDK
+- title: Speech-To-Text - Do More with the Python SDK
   path: core-transcription/do-more-with-sdk-python.ipynb
   tags:
     - speech-to-text
@@ -302,12 +302,12 @@
     - speech-to-text
     - lemur
     
-- title: Async - Use Pyannote to Generate Custom Speaker Labels
+- title: Speech-To-Text - Use Pyannote to Generate Custom Speaker Labels
   path: core-transcription/Use_AssemblyAI_with_Pyannote_to_generate_custom_Speaker_Labels.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Correct Audio Duration Discrepancies for Corrupted Files
+- title: Speech-To-Text - Correct Audio Duration Discrepancies for Corrupted Files
   path: core-transcription/audio-duration-fix.ipynb
   tags:
     - speech-to-text
@@ -317,22 +317,22 @@
   tags:
     - streaming
 
-- title: Async - Calculate Talk/Listen Ratio of Speakers
+- title: Speech-To-Text - Calculate Talk/Listen Ratio of Speakers
   path: core-transcription/talk-listen-ratio.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Speaker Diarization with Async Chunking
+- title: Speech-To-Text - Speaker Diarization with Async Chunking
   path: core-transcription/speaker-diarization-with-async-chunking.ipynb
   tags:
     - speech-to-text
 
-- title: Async - Near-Realtime Python Speech-to-Text App
+- title: Speech-To-Text - Near-Realtime Python Speech-to-Text App
   path: https://github.com/AssemblyAI-Solutions/async-chunk-py
   tags:
     - speech-to-text
 
-- title: Async - Near-Realtime Node.js Speech-to-Text App
+- title: Speech-To-Text - Near-Realtime Node.js Speech-to-Text App
   path: https://github.com/AssemblyAI-Solutions/async-chunk-js
   tags:
     - speech-to-text
@@ -382,7 +382,7 @@
   tags:
     - speech-to-text
 
-- title: Async - How to Use the EU Endpoint
+- title: Speech-To-Text - How to Use the EU Endpoint
   path: core-transcription/how_to_use_the_eu_endpoint.ipynb
   tags:
     - speech-to-text
