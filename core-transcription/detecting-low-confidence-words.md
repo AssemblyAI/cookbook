@@ -23,7 +23,7 @@ const client = new AssemblyAI({
 Next create the transcript with your audio file, either via local audio file or URL (AssemblyAI's servers need to be able to access the URL, make sure the URL links to a downloadable file).
 
 ```javascript
-const transcript = await client.transcripts.create({
+const transcript = await client.transcripts.transcribe({
   audio_url: './sample.mp4',
 })
 ```
