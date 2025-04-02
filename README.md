@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This cookbook repository will no longer be updated.
+> Any new cookbooks, as well as all the guides included in this repo, can be found in the [cookbook section of our documentation](https://www.assemblyai.com/docs/guides).
+> 
 # AssemblyAI Cookbook 🧑‍🍳
 
 The AssemblyAI Cookbook is a resource of code examples, guides, and tutorials for using the AssemblyAI API. Want to learn more about AssemblyAI? Check out this [product overview video](https://youtu.be/UT1sBCuSJxE)!
