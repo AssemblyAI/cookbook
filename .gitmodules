@@ -16,3 +16,6 @@
 [submodule "streaming-stt/twilio-dual-channel-transcriber"]
 	path = streaming-stt/twilio-dual-channel-transcriber
 	url = https://github.com/AssemblyAI-Solutions/twilio-dual-channel-transcriber-py
+[submodule "streaming-stt/streaming-api-nextjs"]
+	path = streaming-stt/streaming-api-nextjs
+	url = https://github.com/MAsuamah/streaming-api-nextjs
